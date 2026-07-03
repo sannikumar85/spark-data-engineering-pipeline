@@ -1,0 +1,1152 @@
+Order ID,Customer_Name,Category,Sub_Category,Sales,Quantity,Profit,City,State,Total_Amount,Order_Category
+CA-2016-152156,Claire Gute,Furniture,Chairs,731.94,3,219.582,Henderson,Kentucky,2195.82,High Value
+US-2015-108966,Sean O'Donnell,Furniture,Tables,957.5775,5,-383.031,Fort Lauderdale,Florida,4787.89,High Value
+CA-2014-115812,Brosina Hoffman,Technology,Phones,907.152,6,90.7152,Los Angeles,California,5442.91,High Value
+CA-2014-115812,Brosina Hoffman,Furniture,Tables,1706.184,9,85.3092,Los Angeles,California,15355.66,High Value
+CA-2014-115812,Brosina Hoffman,Technology,Phones,911.424,4,68.3568,Los Angeles,California,3645.7,High Value
+CA-2014-105893,Pete Kriz,Office Supplies,Storage,665.88,6,13.3176,Madison,Wisconsin,3995.28,High Value
+CA-2015-106320,Emily Burns,Furniture,Tables,1044.63,3,240.2649,Orem,Utah,3133.89,High Value
+US-2015-150630,Tracy Blumstein,Furniture,Bookcases,3083.43,7,-1665.0522,Philadelphia,Pennsylvania,21584.01,High Value
+CA-2016-117590,Gene Hale,Technology,Phones,1097.544,7,123.4737,Richardson,Texas,7682.81,High Value
+CA-2015-117415,Steve Nguyen,Furniture,Bookcases,532.3992,3,-46.9764,Houston,Texas,1597.2,High Value
+CA-2016-105816,Janet Molinari,Technology,Phones,1029.95,5,298.6855,New York City,New York,5149.75,High Value
+CA-2014-106376,Brendan Sweed,Office Supplies,Art,1113.024,8,111.3024,Gilbert,Arizona,8904.19,High Value
+US-2015-134026,Joel Eaton,Furniture,Chairs,831.936,8,-114.3912,Memphis,Tennessee,6655.49,High Value
+CA-2015-110457,Dave Kipp,Furniture,Tables,787.53,3,165.3813,Seattle,Washington,2362.59,High Value
+US-2014-152030,Alan Dominguez,Furniture,Chairs,600.558,3,-8.5794,Houston,Texas,1801.67,High Value
+US-2014-134614,Philip Fox,Furniture,Tables,617.7,6,-407.682,Bloomington,Illinois,3706.2,High Value
+CA-2017-155376,Sandra Glassco,Office Supplies,Appliances,839.43,3,218.2518,Independence,Missouri,2518.29,High Value
+CA-2015-110744,Helen Andreada,Office Supplies,Storage,671.93,7,20.1579,Pasadena,California,4703.51,High Value
+CA-2016-114489,Justin Ellison,Furniture,Chairs,1951.84,8,585.552,Franklin,Wisconsin,15614.72,High Value
+CA-2016-114104,Nora Paige,Technology,Phones,944.93,7,236.2325,Edmond,Oklahoma,6614.51,High Value
+CA-2014-139892,Becky Martin,Technology,Machines,8159.952,8,-1359.992,San Antonio,Texas,65279.62,High Value
+CA-2014-139892,Becky Martin,Furniture,Chairs,1740.06,9,-24.858,San Antonio,Texas,15660.54,High Value
+CA-2014-158274,Robert Marley,Technology,Phones,503.96,4,131.0296,Monroe,Louisiana,2015.84,High Value
+CA-2015-102281,Mark Packer,Furniture,Bookcases,899.136,4,112.392,New York City,New York,3596.54,High Value
+CA-2015-102281,Mark Packer,Furniture,Bookcases,626.352,3,46.9764,New York City,New York,1879.06,High Value
+CA-2015-146262,Victoria Wilson,Technology,Machines,1188.0,9,-950.4,Medina,Ohio,10692.0,High Value
+CA-2015-163055,David Smith,Furniture,Tables,622.45,5,136.939,Detroit,Michigan,3112.25,High Value
+US-2017-100930,Christopher Schild,Furniture,Tables,620.6145,3,-248.2458,Tampa,Florida,1861.84,High Value
+US-2017-100930,Christopher Schild,Technology,Accessories,617.976,3,-7.7247,Tampa,Florida,1853.93,High Value
+CA-2014-131926,Dianna Wilson,Furniture,Chairs,2001.86,7,580.5394,Lakeville,Minnesota,14013.02,High Value
+CA-2014-131926,Dianna Wilson,Office Supplies,Appliances,1503.25,5,496.0725,Lakeville,Minnesota,7516.25,High Value
+CA-2016-145625,Kelly Collister,Technology,Accessories,3347.37,13,636.0003,San Diego,California,43515.81,High Value
+US-2015-159982,Dan Reichenbach,Technology,Phones,647.904,6,56.6916,Chicago,Illinois,3887.42,High Value
+US-2014-106992,Sean Braxton,Technology,Machines,3059.982,3,-509.997,Houston,Texas,9179.95,High Value
+US-2014-106992,Sean Braxton,Technology,Machines,2519.958,7,-251.9958,Houston,Texas,17639.71,High Value
+CA-2017-163979,Kristen Hastings,Office Supplies,Storage,725.84,4,210.4936,San Francisco,California,2903.36,High Value
+US-2015-161991,Steven Cartwright,Technology,Phones,1114.4,7,376.11,Houston,Texas,7800.8,High Value
+CA-2015-130890,Jas O'Carroll,Furniture,Tables,1038.84,5,51.942,Los Angeles,California,5194.2,High Value
+CA-2016-112697,Alan Haines,Office Supplies,Supplies,961.48,5,-204.3145,Tamarac,Florida,4807.4,High Value
+CA-2014-164973,Nathan Mautz,Technology,Machines,3991.98,2,1995.99,New York City,New York,7983.96,High Value
+US-2016-141544,Patrick O'Brill,Furniture,Chairs,786.744,4,-258.5016,Philadelphia,Pennsylvania,3146.98,High Value
+CA-2015-137946,Doug Bickford,Technology,Copiers,959.984,2,335.9944,Los Angeles,California,1919.97,High Value
+CA-2014-129924,Alyssa Crouse,Furniture,Tables,698.352,3,-17.4588,San Francisco,California,2095.06,High Value
+CA-2014-122336,Jonathan Doherty,Office Supplies,Binders,509.97,10,-407.976,Philadelphia,Pennsylvania,5099.7,High Value
+CA-2016-129714,Adam Bellavance,Office Supplies,Binders,4355.168,4,1415.4296,New York City,New York,17420.67,High Value
+CA-2017-155698,Victoria Brennan,Office Supplies,Appliances,647.84,8,168.4384,Columbus,Georgia,5182.72,High Value
+CA-2016-155516,Michael Kennedy,Furniture,Bookcases,1043.92,4,271.4192,Manchester,Connecticut,4175.68,High Value
+US-2014-119137,Arthur Gainer,Technology,Accessories,1023.936,8,179.1888,Tucson,Arizona,8191.49,High Value
+US-2017-134481,Allen Rosenblatt,Furniture,Tables,1488.424,7,-297.6848,Franklin,Massachusetts,10418.97,High Value
+US-2014-135972,Jack Garza,Technology,Copiers,1799.97,3,701.9883,Des Moines,Washington,5399.91,High Value
+CA-2016-108987,Anna Gayman,Furniture,Bookcases,2396.2656,4,-317.1528,Houston,Texas,9585.06,High Value
+CA-2017-117457,Keith Herrera,Technology,Copiers,1199.976,3,434.9913,San Francisco,California,3599.93,High Value
+CA-2017-117457,Keith Herrera,Furniture,Tables,1004.024,7,-112.9527,San Francisco,California,7028.17,High Value
+CA-2017-117457,Keith Herrera,Furniture,Bookcases,1336.829,13,31.4548,San Francisco,California,17378.78,High Value
+CA-2017-155705,Natalie Fritzler,Furniture,Chairs,866.4,4,225.264,Jackson,Mississippi,3465.6,High Value
+CA-2016-127369,Dave Brooks,Office Supplies,Storage,714.3,5,207.147,Lowell,Massachusetts,3571.5,High Value
+CA-2016-147375,Philisse Overcash,Technology,Machines,1007.979,3,43.1991,Chicago,Illinois,3023.94,High Value
+CA-2017-147277,Ed Braxton,Office Supplies,Storage,665.408,2,66.5408,Akron,Ohio,1330.82,High Value
+US-2016-157945,Natalie Fritzler,Furniture,Chairs,747.558,3,-96.1146,Decatur,Illinois,2242.67,High Value
+CA-2015-109638,Joseph Holt,Technology,Accessories,899.91,9,377.9622,Seattle,Washington,8099.19,High Value
+CA-2016-109869,Tanja Norvell,Furniture,Tables,1272.63,6,-814.4832,Phoenix,Arizona,7635.78,High Value
+CA-2014-144666,Jeremy Pistek,Technology,Phones,703.968,4,87.996,San Francisco,California,2815.87,High Value
+CA-2016-100790,John Grady,Office Supplies,Storage,704.25,5,84.51,New York City,New York,3521.25,High Value
+CA-2017-140963,Michelle Tran,Furniture,Bookcases,514.165,5,-30.245,Los Angeles,California,2570.83,High Value
+CA-2014-154627,Sue Ann Reed,Technology,Phones,2735.952,6,341.994,Chicago,Illinois,16415.71,High Value
+US-2016-105578,Maribeth Yedwab,Furniture,Chairs,801.568,2,50.098,Parker,Colorado,1603.14,High Value
+CA-2015-145352,Christopher Martinez,Office Supplies,Binders,6354.95,5,3177.475,Atlanta,Georgia,31774.75,High Value
+CA-2017-127432,Alan Dominguez,Technology,Copiers,2999.95,5,1379.977,Great Falls,Montana,14999.75,High Value
+CA-2017-127432,Alan Dominguez,Office Supplies,Storage,1126.02,3,56.301,Great Falls,Montana,3378.06,High Value
+CA-2017-113558,Patricia Hirasaki,Furniture,Chairs,683.952,3,42.747,Lakeland,Florida,2051.86,High Value
+US-2015-138303,Mike Gockenbach,Office Supplies,Supplies,666.248,1,-149.9058,Philadelphia,Pennsylvania,666.25,Regular
+CA-2016-168753,Rob Lucas,Technology,Phones,979.95,5,274.386,Montgomery,Alabama,4899.75,High Value
+US-2015-120161,Liz MacKendrick,Office Supplies,Storage,646.776,9,-145.5246,Springfield,Ohio,5820.98,High Value
+CA-2016-136406,Bill Donatelli,Furniture,Chairs,1121.568,2,0.0,San Francisco,California,2243.14,High Value
+CA-2017-100650,Dean Katz,Office Supplies,Storage,1295.78,2,310.9872,Anaheim,California,2591.56,High Value
+CA-2016-113243,Olvera Toch,Furniture,Tables,1335.68,4,-217.048,Los Angeles,California,5342.72,High Value
+CA-2014-131450,Lena Radford,Technology,Copiers,1199.976,3,434.9913,San Diego,California,3599.93,High Value
+CA-2016-121223,Giulietta Dortch,Technology,Phones,728.946,9,-157.9383,Philadelphia,Pennsylvania,6560.51,High Value
+CA-2015-138009,Sylvia Foulston,Office Supplies,Appliances,555.21,5,178.901,Dearborn,Michigan,2776.05,High Value
+CA-2015-138009,Sylvia Foulston,Office Supplies,Storage,523.48,4,130.87,Dearborn,Michigan,2093.92,High Value
+CA-2016-115917,Rick Bensley,Furniture,Furnishings,1049.2,5,272.792,Vallejo,California,5246.0,High Value
+US-2016-156097,Eugene Hildebrand,Furniture,Chairs,701.372,2,-50.098,Aurora,Illinois,1402.74,High Value
+CA-2015-146563,Cassandra Brandow,Office Supplies,Storage,999.432,7,124.929,Arlington,Texas,6996.02,High Value
+CA-2015-146563,Cassandra Brandow,Office Supplies,Storage,724.08,14,-135.765,Arlington,Texas,10137.12,High Value
+CA-2015-146563,Cassandra Brandow,Furniture,Tables,918.785,5,-118.1295,Arlington,Texas,4593.93,High Value
+US-2017-168116,Grant Thornton,Technology,Machines,7999.98,4,-3839.9904,Burlington,North Carolina,31999.92,High Value
+CA-2014-112158,David Philippe,Furniture,Bookcases,883.92,5,-110.49,New York City,New York,4419.6,High Value
+CA-2016-142335,Michael Paige,Furniture,Tables,1652.94,3,231.4116,Detroit,Michigan,4958.82,High Value
+US-2016-150861,Emily Grady,Furniture,Chairs,542.646,3,102.4998,Oceanside,New York,1627.94,High Value
+CA-2014-124429,Maya Herman,Furniture,Tables,567.12,10,-28.356,San Diego,California,5671.2,High Value
+CA-2016-110499,Yoseph Carroll,Technology,Copiers,1199.976,3,374.9925,San Francisco,California,3599.93,High Value
+CA-2014-162775,Chris Selesnick,Technology,Accessories,646.74,6,258.696,Bossier City,Louisiana,3880.44,High Value
+CA-2014-162775,Chris Selesnick,Office Supplies,Storage,572.58,6,34.3548,Bossier City,Louisiana,3435.48,High Value
+CA-2016-157245,Laurel Elliston,Furniture,Chairs,641.96,2,179.7488,Arlington,Virginia,1283.92,High Value
+CA-2015-144267,Nick Zandusky,Furniture,Chairs,544.008,3,40.8006,San Francisco,California,1632.02,High Value
+CA-2016-105256,Joe Kamberova,Technology,Phones,1363.96,5,85.2475,Asheville,North Carolina,6819.8,High Value
+CA-2014-134313,Russell Applegate,Technology,Phones,1983.968,4,247.996,Denver,Colorado,7935.87,High Value
+CA-2014-151995,Zuschuss Carroll,Furniture,Tables,1298.55,5,311.652,Edmonds,Washington,6492.75,High Value
+CA-2017-143686,Pauline Johnson,Technology,Accessories,1399.93,7,601.9699,Santa Ana,California,9799.51,High Value
+CA-2014-140858,Cynthia Arntzen,Furniture,Chairs,1228.465,5,0.0,Philadelphia,Pennsylvania,6142.33,High Value
+CA-2016-158099,Paul Knutson,Office Supplies,Binders,1141.47,5,-760.98,Philadelphia,Pennsylvania,5707.35,High Value
+CA-2017-111689,Harold Pawlan,Furniture,Chairs,1242.9,5,262.39,New York City,New York,6214.5,High Value
+CA-2017-133256,Tracy Hopkins,Technology,Phones,543.92,8,135.98,Detroit,Michigan,4351.36,High Value
+CA-2017-137596,Bill Eplett,Technology,Phones,1199.8,4,323.946,Jackson,Michigan,4799.2,High Value
+CA-2017-137596,Bill Eplett,Technology,Accessories,1928.78,7,829.3754,Jackson,Michigan,13501.46,High Value
+US-2014-141215,Kelly Lampkin,Furniture,Chairs,797.944,4,-56.996,San Antonio,Texas,3191.78,High Value
+CA-2016-149797,Adam Hart,Office Supplies,Binders,841.568,2,294.5488,New York City,New York,1683.14,High Value
+CA-2016-142958,Rob Williams,Furniture,Tables,1114.272,4,41.7852,Torrance,California,4457.09,High Value
+CA-2015-120880,John Lucas,Office Supplies,Storage,540.57,3,140.5482,Seattle,Washington,1621.71,High Value
+US-2017-110576,Ross Baird,Furniture,Furnishings,516.488,7,-12.9122,Philadelphia,Pennsylvania,3615.42,High Value
+US-2017-110576,Ross Baird,Furniture,Furnishings,1007.232,6,75.5424,Philadelphia,Pennsylvania,6043.39,High Value
+US-2017-110576,Ross Baird,Furniture,Tables,2065.32,12,-619.596,Philadelphia,Pennsylvania,24783.84,High Value
+CA-2017-135279,Bryan Spruell,Office Supplies,Storage,501.81,3,0.0,New York City,New York,1505.43,High Value
+CA-2017-159366,Bart Watters,Technology,Machines,3059.982,2,679.996,Detroit,Michigan,6119.96,High Value
+CA-2016-144939,Emily Burns,Furniture,Chairs,599.292,6,93.2232,New York City,New York,3595.75,High Value
+CA-2014-163419,Tracy Zic,Technology,Phones,559.984,2,55.9984,Louisville,Colorado,1119.97,High Value
+CA-2014-163419,Tracy Zic,Furniture,Chairs,603.92,5,75.49,Louisville,Colorado,3019.6,High Value
+CA-2017-167899,John Grady,Furniture,Furnishings,520.05,5,72.807,Auburn,New York,2600.25,High Value
+CA-2015-153549,Sara Luxemburg,Furniture,Chairs,1166.92,5,131.2785,Jacksonville,Florida,5834.6,High Value
+CA-2014-117639,Mitch Willingham,Office Supplies,Binders,2715.93,7,1276.4871,Virginia Beach,Virginia,19011.51,High Value
+CA-2014-117639,Mitch Willingham,Technology,Phones,617.97,3,173.0316,Virginia Beach,Virginia,1853.91,High Value
+CA-2015-124891,Rick Hansen,Technology,Accessories,2309.65,7,762.1845,New York City,New York,16167.55,High Value
+CA-2015-124891,Rick Hansen,Furniture,Tables,1090.782,7,-290.8752,New York City,New York,7635.47,High Value
+US-2015-126214,John Stevenson,Furniture,Tables,1618.37,13,356.0414,Seattle,Washington,21038.81,High Value
+CA-2015-108665,Kalyca Meade,Office Supplies,Storage,601.65,5,156.429,New York City,New York,3008.25,High Value
+CA-2015-124450,Greg Tran,Furniture,Chairs,1267.53,3,316.8825,Washington,District of Columbia,3802.59,High Value
+CA-2015-124450,Greg Tran,Technology,Machines,1379.92,8,648.5624,Washington,District of Columbia,11039.36,High Value
+CA-2014-163552,Laura Armstrong,Furniture,Chairs,854.94,3,213.735,Hackensack,New Jersey,2564.82,High Value
+CA-2016-127670,Robert Dilbeck,Furniture,Tables,697.16,4,146.4036,Saint Peters,Missouri,2788.64,High Value
+CA-2016-102981,Mary O'Rourke,Furniture,Bookcases,722.352,3,90.294,New York City,New York,2167.06,High Value
+CA-2016-169103,Zuschuss Carroll,Technology,Phones,1363.96,5,85.2475,Miami,Florida,6819.8,High Value
+CA-2014-139192,Lena Creighton,Technology,Phones,1113.504,12,125.2692,San Francisco,California,13362.05,High Value
+CA-2015-110016,Bill Tyler,Furniture,Chairs,1106.91,9,121.7601,Detroit,Michigan,9962.19,High Value
+US-2016-143819,Karen Daniels,Furniture,Tables,836.592,8,-264.9208,Yonkers,New York,6692.74,High Value
+US-2016-143819,Karen Daniels,Technology,Machines,4899.93,7,2400.9657,Yonkers,New York,34299.51,High Value
+CA-2015-142755,Christine Sundaresam,Technology,Accessories,619.95,5,111.591,Roswell,Georgia,3099.75,High Value
+US-2014-147627,Hunter Lopez,Technology,Phones,699.93,7,181.9818,Jonesboro,Arkansas,4899.51,High Value
+US-2014-147627,Hunter Lopez,Furniture,Chairs,1067.94,3,224.2674,Jonesboro,Arkansas,3203.82,High Value
+CA-2014-146969,Arthur Prichep,Technology,Machines,686.32,2,223.054,Los Angeles,California,1372.64,High Value
+CA-2015-112452,Nat Carroll,Office Supplies,Appliances,644.076,2,107.346,Lansing,Michigan,1288.15,High Value
+CA-2015-112452,Nat Carroll,Technology,Copiers,599.98,2,209.993,Lansing,Michigan,1199.96,High Value
+CA-2014-136567,Penelope Sewall,Furniture,Tables,2244.48,7,493.7856,Harrisonburg,Virginia,15711.36,High Value
+CA-2014-128146,Dave Brooks,Technology,Phones,1322.93,7,357.1911,Lakewood,New Jersey,9260.51,High Value
+CA-2017-117212,Bradley Talbott,Technology,Phones,889.536,8,66.7152,Los Angeles,California,7116.29,High Value
+CA-2017-117212,Bradley Talbott,Furniture,Chairs,892.224,3,89.2224,Los Angeles,California,2676.67,High Value
+CA-2016-130946,Zuschuss Carroll,Office Supplies,Binders,1088.792,4,-1850.9464,Houston,Texas,4355.17,High Value
+CA-2016-114727,Linda Southworth,Furniture,Chairs,544.008,3,40.8006,Denver,Colorado,1632.02,High Value
+CA-2016-114727,Linda Southworth,Furniture,Chairs,854.352,3,10.6794,Denver,Colorado,2563.06,High Value
+CA-2016-114727,Linda Southworth,Office Supplies,Storage,593.568,2,0.0,Denver,Colorado,1187.14,High Value
+CA-2016-137050,Steven Ward,Furniture,Bookcases,579.136,4,21.7176,New York City,New York,2316.54,High Value
+US-2017-118087,Stefania Perrino,Technology,Phones,1931.958,7,-386.3916,Philadelphia,Pennsylvania,13523.71,High Value
+CA-2016-153682,Brooke Gillingham,Technology,Copiers,839.988,2,69.999,Cincinnati,Ohio,1679.98,High Value
+CA-2014-168494,Nora Preis,Furniture,Tables,764.688,6,95.586,Fresno,California,4588.13,High Value
+CA-2014-168494,Nora Preis,Furniture,Tables,3610.848,12,135.4068,Fresno,California,43330.18,High Value
+CA-2017-115602,Doug Jacobs,Furniture,Chairs,1141.938,9,139.5702,New York City,New York,10277.44,High Value
+CA-2017-115602,Doug Jacobs,Office Supplies,Appliances,1704.56,13,511.368,New York City,New York,22159.28,High Value
+CA-2015-154956,Irene Maddox,Technology,Phones,1099.96,4,285.9896,Milwaukee,Wisconsin,4399.84,High Value
+US-2016-168620,Ross Baird,Office Supplies,Storage,540.048,3,-47.2542,Charlotte,North Carolina,1620.14,High Value
+CA-2017-117079,Jocasta Rupert,Technology,Phones,863.88,3,107.985,Jacksonville,Florida,2591.64,High Value
+CA-2015-138898,Justin Hirsh,Office Supplies,Appliances,845.728,13,84.5728,Pueblo,Colorado,10994.46,High Value
+CA-2016-137043,Logan Currie,Furniture,Furnishings,572.76,6,166.1004,Springfield,Virginia,3436.56,High Value
+CA-2016-145919,Henry Goldwyn,Office Supplies,Supplies,579.3,5,28.965,Los Angeles,California,2896.5,High Value
+CA-2014-160773,Laurel Workman,Technology,Phones,575.92,2,71.99,Deltona,Florida,1151.84,High Value
+CA-2016-122133,Jim Radford,Office Supplies,Storage,552.56,4,0.0,Middletown,Connecticut,2210.24,High Value
+CA-2017-100524,Chad McGuire,Technology,Phones,677.58,3,176.1708,New York City,New York,2032.74,High Value
+CA-2017-113481,Aaron Smayling,Technology,Machines,695.7,2,-27.828,Jacksonville,North Carolina,1391.4,High Value
+US-2017-155425,Ann Blume,Furniture,Chairs,899.136,4,-146.1096,Tucson,Arizona,3596.54,High Value
+US-2015-103471,Jim Radford,Furniture,Bookcases,590.058,7,-786.744,Colorado Springs,Colorado,4130.41,High Value
+CA-2015-120362,Christina Anderson,Furniture,Tables,912.75,5,118.6575,Provo,Utah,4563.75,High Value
+CA-2014-126361,Valerie Dominguez,Office Supplies,Appliances,1089.75,3,305.13,Pleasant Grove,Utah,3269.25,High Value
+US-2017-117247,Cyma Kinney,Furniture,Tables,652.45,5,-430.617,Aurora,Illinois,3262.25,High Value
+CA-2015-126697,Stuart Van,Technology,Phones,946.344,7,118.293,Houston,Texas,6624.41,High Value
+CA-2014-120768,Irene Maddox,Furniture,Chairs,1819.86,14,163.7874,Florence,Alabama,25478.04,High Value
+CA-2015-139731,Joel Eaton,Furniture,Chairs,2453.43,5,-350.49,Amarillo,Texas,12267.15,High Value
+CA-2016-133725,Ken Lonsdale,Technology,Phones,1979.928,9,148.4946,Chicago,Illinois,17819.35,High Value
+CA-2016-133711,Mark Cousins,Technology,Machines,3040.0,8,1459.2,Mobile,Alabama,24320.0,High Value
+CA-2016-152289,Linda Cazamias,Furniture,Chairs,1024.716,6,-29.2776,Pasadena,Texas,6148.3,High Value
+CA-2017-139199,Damala Kotsonis,Furniture,Chairs,872.94,3,226.9644,Detroit,Michigan,2618.82,High Value
+CA-2015-140410,Corinna Mitchell,Technology,Phones,1212.848,7,106.1242,Los Angeles,California,8489.94,High Value
+CA-2017-166436,Todd Sumrall,Furniture,Chairs,977.292,6,173.7408,New York City,New York,5863.75,High Value
+CA-2017-130386,Nathan Gelder,Office Supplies,Storage,540.048,3,-47.2542,Austin,Texas,1620.14,High Value
+CA-2015-153388,Pauline Chand,Furniture,Tables,1004.976,6,-175.8708,Los Angeles,California,6029.86,High Value
+CA-2017-148446,Michael Chen,Furniture,Tables,1669.6,4,116.872,North Las Vegas,Nevada,6678.4,High Value
+CA-2017-121888,Carl Ludwig,Furniture,Bookcases,782.94,3,203.5644,Everett,Massachusetts,2348.82,High Value
+CA-2014-150245,Pamela Coakley,Furniture,Bookcases,1573.488,7,196.686,Watertown,New York,11014.42,High Value
+CA-2014-134278,Emily Phan,Technology,Copiers,559.992,1,174.9975,New York City,New York,559.99,Regular
+US-2017-102890,Sheri Gordon,Furniture,Tables,1044.63,5,-295.9785,New York City,New York,5223.15,High Value
+US-2014-157385,Sanjit Chand,Furniture,Chairs,603.92,5,-67.941,Los Angeles,California,3019.6,High Value
+CA-2014-101602,Mick Crebagga,Furniture,Chairs,763.28,5,-21.808,El Paso,Texas,3816.4,High Value
+CA-2015-131338,Naresj Patel,Office Supplies,Binders,1217.568,2,456.588,New York City,New York,2435.14,High Value
+CA-2015-131338,Naresj Patel,Technology,Phones,979.95,5,274.386,New York City,New York,4899.75,High Value
+CA-2017-132234,Maribeth Yedwab,Furniture,Furnishings,547.3,13,175.136,New York City,New York,7114.9,High Value
+CA-2017-138380,Yana Sorensen,Office Supplies,Storage,1000.02,7,290.0058,Oakland,California,7000.14,High Value
+CA-2017-108560,Jenna Caffey,Office Supplies,Labels,786.48,8,385.3752,Kent,Washington,6291.84,High Value
+CA-2015-157084,James Galang,Technology,Phones,675.96,5,84.495,Los Angeles,California,3379.8,High Value
+CA-2015-157084,James Galang,Technology,Accessories,1265.85,3,556.974,Los Angeles,California,3797.55,High Value
+CA-2015-164539,Philisse Overcash,Office Supplies,Appliances,523.25,5,141.2775,New York City,New York,2616.25,High Value
+CA-2015-143119,Marc Crier,Furniture,Chairs,517.5,6,155.25,Lafayette,Louisiana,3105.0,High Value
+CA-2016-106530,Clay Ludtke,Office Supplies,Storage,1006.056,3,88.0299,Cleveland,Ohio,3018.17,High Value
+CA-2014-168984,Natalie Webber,Office Supplies,Storage,669.08,5,-167.27,Tigard,Oregon,3345.4,High Value
+CA-2015-111829,Fred Hopkins,Office Supplies,Storage,1247.64,3,349.3392,Seattle,Washington,3742.92,High Value
+CA-2015-111829,Fred Hopkins,Technology,Copiers,3149.93,7,1480.4671,Seattle,Washington,22049.51,High Value
+CA-2017-144526,Quincy Jones,Technology,Phones,677.58,5,-158.102,Philadelphia,Pennsylvania,3387.9,High Value
+US-2015-157154,Michael Moore,Furniture,Tables,1018.104,4,-373.3048,New York City,New York,4072.42,High Value
+CA-2014-142839,Troy Staebel,Furniture,Tables,853.092,6,-227.4912,Philadelphia,Pennsylvania,5118.55,High Value
+CA-2014-135657,Steven Cartwright,Furniture,Tables,515.88,6,113.4936,Seattle,Washington,3095.28,High Value
+CA-2015-114069,Natalie DeCherney,Furniture,Chairs,1931.04,9,321.84,New York City,New York,17379.36,High Value
+CA-2017-123491,Jamie Kunitz,Office Supplies,Appliances,1702.12,14,510.636,San Francisco,California,23829.68,High Value
+US-2017-124968,Michelle Moray,Furniture,Tables,765.625,7,-566.5625,Chicago,Illinois,5359.38,High Value
+US-2017-164056,Filia McAdams,Furniture,Tables,1048.35,5,-69.89,Dublin,Ohio,5241.75,High Value
+CA-2017-116715,Victoria Wilson,Office Supplies,Storage,559.62,9,151.0974,San Francisco,California,5036.58,High Value
+CA-2015-135622,Tonja Turnell,Technology,Phones,1718.4,6,150.36,Fort Worth,Texas,10310.4,High Value
+CA-2015-154326,Roy Phan,Technology,Phones,699.98,2,195.9944,Kenosha,Wisconsin,1399.96,High Value
+CA-2014-120474,Resi P�lking,Furniture,Chairs,2807.84,8,673.8816,Madison,Wisconsin,22462.72,High Value
+CA-2017-158379,Joseph Airdo,Office Supplies,Supplies,4663.736,7,-1049.3406,Philadelphia,Pennsylvania,32646.15,High Value
+US-2016-116729,Grace Kelly,Technology,Phones,2575.944,7,257.5944,Los Angeles,California,18031.61,High Value
+CA-2014-132612,Frank Olsen,Furniture,Tables,1441.3,7,245.021,Harrisonburg,Virginia,10089.1,High Value
+CA-2016-109344,Cathy Hwang,Technology,Phones,1127.976,3,126.8973,Raleigh,North Carolina,3383.93,High Value
+CA-2014-103373,Bruce Stewart,Technology,Phones,779.796,2,-168.9558,Cleveland,Ohio,1559.59,High Value
+CA-2017-145884,Sara Luxemburg,Technology,Phones,1439.92,8,374.3792,Muskogee,Oklahoma,11519.36,High Value
+CA-2017-162691,Aaron Smayling,Technology,Machines,1439.982,3,-263.9967,Austin,Texas,4319.95,High Value
+CA-2017-122693,Nicole Hansen,Office Supplies,Appliances,1245.86,7,361.2994,Roswell,Georgia,8721.02,High Value
+CA-2015-160472,Ralph Kennedy,Technology,Accessories,831.2,5,124.68,South Bend,Indiana,4156.0,High Value
+US-2016-100839,Noah Childs,Furniture,Tables,727.45,5,-465.568,Aurora,Colorado,3637.25,High Value
+CA-2014-116932,Michelle Ellison,Furniture,Chairs,801.568,2,50.098,San Francisco,California,1603.14,High Value
+CA-2015-109512,Luke Foster,Office Supplies,Storage,563.4,4,67.608,New York City,New York,2253.6,High Value
+CA-2017-141789,Amy Cox,Office Supplies,Binders,1793.98,2,843.1706,Minneapolis,Minnesota,3587.96,High Value
+CA-2014-169775,Ryan Akin,Office Supplies,Binders,505.176,4,-336.784,Miami,Florida,2020.7,High Value
+CA-2017-154410,Michael Dominguez,Office Supplies,Storage,909.12,8,9.0912,Indianapolis,Indiana,7272.96,High Value
+CA-2017-121503,Frank Hawley,Technology,Machines,597.132,3,49.761,Houston,Texas,1791.4,High Value
+US-2017-111423,Edward Hooks,Office Supplies,Binders,895.92,5,302.373,Watertown,New York,4479.6,High Value
+CA-2016-156685,Scot Coram,Technology,Phones,863.64,9,107.955,Arlington,Texas,7772.76,High Value
+US-2017-101539,Valerie Mitchum,Technology,Phones,659.976,3,49.4982,Seattle,Washington,1979.93,High Value
+CA-2016-112109,Joe Elijah,Furniture,Chairs,662.88,3,74.574,Broomfield,Colorado,1988.64,High Value
+CA-2017-157987,Ann Chong,Furniture,Chairs,1282.41,5,213.735,New York City,New York,6412.05,High Value
+CA-2014-110408,Alan Schoenberger,Technology,Phones,1394.95,5,362.687,Montgomery,Alabama,6974.75,High Value
+CA-2014-110408,Alan Schoenberger,Furniture,Chairs,545.88,6,70.9644,Montgomery,Alabama,3275.28,High Value
+CA-2016-112669,Kean Takahito,Furniture,Chairs,933.536,4,105.0228,Glendale,Arizona,3734.14,High Value
+CA-2016-147417,Christy Brittain,Technology,Copiers,1439.976,4,191.9968,Columbus,Ohio,5759.9,High Value
+CA-2015-127509,Adam Shillingsburg,Furniture,Tables,1024.38,7,215.1198,Springfield,Missouri,7170.66,High Value
+CA-2016-145905,Anne McFarland,Office Supplies,Storage,900.08,4,117.0104,Auburn,Alabama,3600.32,High Value
+CA-2016-168354,Rick Huthwaite,Office Supplies,Storage,1606.23,9,481.869,Providence,Rhode Island,14456.07,High Value
+CA-2016-168354,Rick Huthwaite,Furniture,Chairs,872.32,4,244.2496,Providence,Rhode Island,3489.28,High Value
+CA-2016-131835,Matt Collister,Technology,Phones,597.0,3,280.59,Perth Amboy,New Jersey,1791.0,High Value
+CA-2017-120376,Theone Pippenger,Furniture,Chairs,1586.69,7,412.5394,Detroit,Michigan,11106.83,High Value
+CA-2015-133452,Zuschuss Carroll,Furniture,Tables,710.832,3,-97.7394,Pomona,California,2132.5,High Value
+CA-2017-122504,Deborah Brumfield,Technology,Phones,761.544,7,66.6351,Brentwood,California,5330.81,High Value
+US-2016-146570,Steve Nguyen,Office Supplies,Binders,511.84,8,240.5648,Jackson,Mississippi,4094.72,High Value
+US-2014-140116,Kean Thornton,Office Supplies,Storage,636.408,3,-15.9102,Denver,Colorado,1909.22,High Value
+CA-2015-164882,Sandra Glassco,Technology,Phones,1295.84,4,145.782,Redlands,California,5183.36,High Value
+CA-2017-155460,Rob Williams,Office Supplies,Binders,895.92,5,302.373,Seattle,Washington,4479.6,High Value
+CA-2014-159520,Grant Thornton,Furniture,Tables,991.764,3,-347.1174,Long Beach,New York,2975.29,High Value
+CA-2014-124646,Dianna Vittorini,Office Supplies,Storage,501.81,3,0.0,Minneapolis,Minnesota,1505.43,High Value
+CA-2016-128818,Caroline Jumper,Technology,Machines,3999.95,5,1159.9855,New York City,New York,19999.75,High Value
+CA-2017-143063,Ivan Liston,Technology,Phones,1454.49,9,378.1674,Columbus,Indiana,13090.41,High Value
+US-2014-165659,Liz Thompson,Technology,Phones,881.93,7,229.3018,Little Rock,Arkansas,6173.51,High Value
+CA-2014-125556,Maris LaWare,Technology,Phones,832.93,7,233.2204,Fairfield,Connecticut,5830.51,High Value
+CA-2017-130841,Matt Hagelstein,Technology,Phones,1145.6,4,100.24,San Francisco,California,4582.4,High Value
+CA-2014-128055,Alex Avila,Office Supplies,Binders,673.568,2,252.588,San Francisco,California,1347.14,High Value
+CA-2017-157091,Denny Blanton,Furniture,Furnishings,526.45,5,31.587,La Porte,Indiana,2632.25,High Value
+CA-2016-146633,Toby Gnade,Office Supplies,Binders,1016.792,1,381.297,Los Angeles,California,1016.79,High Value
+CA-2017-103380,Barry Franz,Technology,Phones,659.976,3,49.4982,Pasadena,California,1979.93,High Value
+CA-2015-116092,Justin MacKendrick,Office Supplies,Appliances,541.44,6,157.0176,Los Angeles,California,3248.64,High Value
+CA-2017-105214,Troy Staebel,Furniture,Chairs,1212.96,7,90.972,San Francisco,California,8490.72,High Value
+CA-2015-142944,John Lucas,Technology,Copiers,1119.984,2,377.9946,San Francisco,California,2239.97,High Value
+CA-2017-142622,Jim Karlsson,Furniture,Chairs,614.272,8,-23.0352,Seattle,Washington,4914.18,High Value
+CA-2017-115154,Ricardo Sperren,Furniture,Tables,892.98,2,80.3682,Seattle,Washington,1785.96,High Value
+CA-2015-113145,Valerie Dominguez,Technology,Accessories,1399.93,7,601.9699,New York City,New York,9799.51,High Value
+CA-2015-113145,Valerie Dominguez,Technology,Phones,503.96,4,125.99,New York City,New York,2015.84,High Value
+CA-2017-157931,Meg O'Connel,Furniture,Chairs,723.92,4,188.2192,Roswell,Georgia,2895.68,High Value
+US-2015-147739,Justin Deggeller,Furniture,Furnishings,547.136,4,-68.392,Philadelphia,Pennsylvania,2188.54,High Value
+CA-2016-159373,Liz Thompson,Furniture,Tables,557.585,5,0.0,San Antonio,Texas,2787.93,High Value
+CA-2015-111514,Scott Cohen,Furniture,Bookcases,1552.831,7,200.9546,San Francisco,California,10869.82,High Value
+US-2014-148838,Christine Phan,Furniture,Tables,1579.746,7,-447.5947,New York City,New York,11058.22,High Value
+US-2014-148838,Christine Phan,Furniture,Tables,1071.576,4,-553.6476,New York City,New York,4286.3,High Value
+US-2014-148838,Christine Phan,Furniture,Tables,613.908,3,-122.7816,New York City,New York,1841.72,High Value
+US-2015-127040,Speros Goranitis,Technology,Accessories,1619.91,9,97.1946,New York City,New York,14579.19,High Value
+CA-2017-147361,Sean Braxton,Office Supplies,Storage,628.81,7,12.5762,Florence,South Carolina,4401.67,High Value
+US-2016-110170,Harry Marie,Furniture,Bookcases,956.6648,7,-225.0976,Huntsville,Texas,6696.65,High Value
+CA-2017-108574,Mike Gockenbach,Technology,Accessories,1115.91,9,200.8638,Los Angeles,California,10043.19,High Value
+CA-2014-151295,Joseph Airdo,Furniture,Tables,629.064,3,31.4532,Los Angeles,California,1887.19,High Value
+CA-2016-156300,Troy Blackwell,Furniture,Chairs,754.45,5,60.356,Milwaukee,Wisconsin,3772.25,High Value
+CA-2017-168655,Michelle Lonsdale,Technology,Accessories,595.0,5,95.2,Albuquerque,New Mexico,2975.0,High Value
+CA-2016-107202,Linda Cazamias,Technology,Machines,2396.4,10,179.73,Sparks,Nevada,23964.0,High Value
+CA-2015-154746,Patrick Jones,Office Supplies,Appliances,826.11,3,322.1829,Springfield,Virginia,2478.33,High Value
+CA-2017-140053,Christina Anderson,Furniture,Furnishings,545.85,9,114.6285,Farmington,New Mexico,4912.65,High Value
+CA-2016-146934,Art Ferguson,Office Supplies,Appliances,662.84,4,172.3384,Passaic,New Jersey,2651.36,High Value
+CA-2017-128755,Mike Kennedy,Office Supplies,Storage,571.44,4,165.7176,Newport News,Virginia,2285.76,High Value
+CA-2016-114972,Phillip Flathmann,Office Supplies,Appliances,1101.48,4,429.5772,Los Angeles,California,4405.92,High Value
+CA-2017-102750,Greg Maxwell,Furniture,Tables,1322.352,3,-99.1764,Los Angeles,California,3967.06,High Value
+CA-2017-147956,Alan Hwang,Office Supplies,Storage,1003.62,6,0.0,Seattle,Washington,6021.72,High Value
+CA-2017-126067,Kristina Nunn,Furniture,Tables,1137.75,5,250.305,Seattle,Washington,5688.75,High Value
+CA-2015-141040,Tim Brockman,Technology,Phones,631.96,4,303.3408,New York City,New York,2527.84,High Value
+CA-2014-144624,John Murray,Technology,Phones,4548.81,7,1228.1787,Jamestown,New York,31841.67,High Value
+CA-2016-146206,Kean Thornton,Technology,Phones,719.96,5,53.997,Houston,Texas,3599.8,High Value
+CA-2014-136644,Sonia Cooley,Furniture,Chairs,647.84,8,32.392,Mishawaka,Indiana,5182.72,High Value
+CA-2014-143917,Ken Lonsdale,Office Supplies,Supplies,8187.65,5,327.506,San Francisco,California,40938.25,High Value
+CA-2016-136812,Arthur Wiediger,Office Supplies,Storage,1117.92,4,55.896,Oklahoma City,Oklahoma,4471.68,High Value
+CA-2014-128888,Peter B�hler,Office Supplies,Envelopes,604.656,9,204.0714,Houston,Texas,5441.9,High Value
+CA-2016-124352,Cynthia Delaney,Office Supplies,Appliances,868.59,3,251.8911,Oklahoma City,Oklahoma,2605.77,High Value
+US-2017-117723,Dionis Lloyd,Office Supplies,Storage,1801.632,6,-337.806,Philadelphia,Pennsylvania,10809.79,High Value
+CA-2015-113404,Eleni McCrary,Furniture,Chairs,1348.704,6,-219.1644,San Francisco,California,8092.22,High Value
+CA-2015-113404,Eleni McCrary,Furniture,Chairs,700.152,3,78.7671,San Francisco,California,2100.46,High Value
+US-2015-128090,John Murray,Technology,Phones,1879.96,5,211.4955,Phoenix,Arizona,9399.8,High Value
+CA-2017-101042,Adrian Barton,Furniture,Furnishings,821.88,6,213.6888,Henderson,Kentucky,4931.28,High Value
+CA-2016-118626,John Castell,Technology,Phones,705.544,7,70.5544,Tallahassee,Florida,4938.81,High Value
+CA-2015-147788,Tamara Manning,Furniture,Bookcases,1406.86,7,140.686,Orem,Utah,9848.02,High Value
+CA-2017-123967,Sarah Foster,Furniture,Tables,2665.62,9,239.9058,Bellingham,Washington,23990.58,High Value
+CA-2016-155845,Chris McAfee,Technology,Accessories,1399.944,7,52.4979,Carrollton,Texas,9799.61,High Value
+CA-2017-145128,Sean Miller,Furniture,Furnishings,526.45,5,31.587,Lafayette,Indiana,2632.25,High Value
+CA-2014-129091,Ruben Ausman,Office Supplies,Appliances,675.12,3,290.3016,Columbus,Georgia,2025.36,High Value
+US-2016-115455,Sanjit Engle,Furniture,Tables,601.47,3,-300.735,Wheeling,Illinois,1804.41,High Value
+CA-2017-149048,Brian Moss,Office Supplies,Binders,914.97,3,411.7365,Columbus,Indiana,2744.91,High Value
+CA-2017-149048,Brian Moss,Technology,Phones,587.97,3,158.7519,Columbus,Indiana,1763.91,High Value
+CA-2017-149048,Brian Moss,Office Supplies,Storage,530.34,2,95.4612,Columbus,Indiana,1060.68,High Value
+CA-2016-165848,Edward Nazzal,Technology,Machines,1349.85,3,364.4595,New York City,New York,4049.55,High Value
+CA-2014-127446,Matt Collister,Furniture,Tables,1218.735,5,-121.8735,Arlington,Texas,6093.67,High Value
+CA-2017-127180,Tom Ashbrook,Technology,Copiers,11199.968,4,3919.9888,New York City,New York,44799.87,High Value
+CA-2017-127180,Tom Ashbrook,Technology,Phones,2399.6,8,647.892,New York City,New York,19196.8,High Value
+US-2017-165344,Sean Braxton,Technology,Machines,652.995,7,-935.9595,Springfield,Ohio,4570.97,High Value
+CA-2017-108441,Sarah Bern,Furniture,Chairs,858.24,4,143.04,New York City,New York,3432.96,High Value
+CA-2014-131002,Tom Boeckenhauer,Furniture,Furnishings,821.88,6,213.6888,Tulsa,Oklahoma,4931.28,High Value
+CA-2017-112515,Alan Schoenberger,Furniture,Bookcases,1292.94,3,77.5764,Provo,Utah,3878.82,High Value
+CA-2015-135538,Harold Ryan,Furniture,Chairs,883.84,4,99.432,Gilbert,Arizona,3535.36,High Value
+CA-2017-123372,Deirdre Greer,Technology,Phones,1979.89,11,494.9725,New York City,New York,21778.79,High Value
+CA-2014-126403,Rick Reed,Furniture,Chairs,785.88,6,212.1876,Lowell,Massachusetts,4715.28,High Value
+CA-2014-126403,Rick Reed,Office Supplies,Storage,1325.85,5,238.653,Lowell,Massachusetts,6629.25,High Value
+CA-2017-127026,Mick Hernandez,Technology,Accessories,619.95,5,111.591,Jackson,Michigan,3099.75,High Value
+CA-2014-145317,Sean Miller,Technology,Machines,821.3,4,-16.426,Jacksonville,Florida,3285.2,High Value
+CA-2014-145317,Sean Miller,Technology,Machines,22638.48,6,-1811.0784,Jacksonville,Florida,135830.88,High Value
+CA-2015-121797,Charles Crestani,Technology,Machines,1919.976,3,215.9973,Los Angeles,California,5759.93,High Value
+CA-2017-119193,Sally Knutson,Technology,Phones,629.958,7,94.4937,Toledo,Ohio,4409.71,High Value
+CA-2017-104801,Fred Harton,Technology,Accessories,799.96,4,343.9828,Seattle,Washington,3199.84,High Value
+CA-2014-155887,Kean Thornton,Furniture,Tables,700.056,3,-130.0104,Franklin,Massachusetts,2100.17,High Value
+US-2014-141257,Carlos Soltero,Furniture,Chairs,585.552,3,73.194,Seattle,Washington,1756.66,High Value
+CA-2015-155306,George Ashbrook,Technology,Phones,783.96,5,68.5965,San Francisco,California,3919.8,High Value
+CA-2015-155306,George Ashbrook,Office Supplies,Appliances,1447.65,5,419.8185,San Francisco,California,7238.25,High Value
+CA-2017-167752,Robert Waldorf,Office Supplies,Appliances,1924.16,8,312.676,Philadelphia,Pennsylvania,15393.28,High Value
+CA-2015-149972,Cynthia Delaney,Furniture,Chairs,601.536,4,0.0,Los Angeles,California,2406.14,High Value
+CA-2014-154599,Kean Nguyen,Technology,Phones,1075.088,14,94.0702,Redondo Beach,California,15051.23,High Value
+CA-2016-153318,Jill Stevenson,Technology,Phones,783.96,5,78.396,Miami,Florida,3919.8,High Value
+CA-2015-148635,Michelle Huthwaite,Furniture,Bookcases,704.9,5,56.392,Seattle,Washington,3524.5,High Value
+CA-2015-148635,Michelle Huthwaite,Furniture,Chairs,561.568,2,28.0784,Seattle,Washington,1123.14,High Value
+CA-2015-135685,Mike Pelletier,Technology,Accessories,999.96,4,229.9908,Milwaukee,Wisconsin,3999.84,High Value
+CA-2015-135685,Mike Pelletier,Furniture,Tables,653.55,3,111.1035,Milwaukee,Wisconsin,1960.65,High Value
+CA-2015-104626,Daniel Raglin,Office Supplies,Storage,1088.76,6,315.7404,Franklin,Massachusetts,6532.56,High Value
+CA-2016-147368,Toby Carlisle,Technology,Machines,695.7,2,-27.828,Tallahassee,Florida,1391.4,High Value
+US-2014-125521,Christine Kargatis,Furniture,Chairs,1139.92,4,284.98,Chesapeake,Virginia,4559.68,High Value
+US-2016-162852,Brooke Gillingham,Furniture,Chairs,845.488,8,-12.0784,Woodstock,Illinois,6763.9,High Value
+CA-2017-152093,Skye Norling,Office Supplies,Binders,762.594,3,-1143.891,Chicago,Illinois,2287.78,High Value
+CA-2017-157854,Denise Monton,Office Supplies,Binders,2690.97,3,1264.7559,Roswell,Georgia,8072.91,High Value
+CA-2016-128594,Don Jones,Furniture,Chairs,1603.136,4,100.196,San Diego,California,6412.54,High Value
+CA-2017-138975,Shahid Collister,Furniture,Bookcases,1628.82,9,374.6286,Atlanta,Georgia,14659.38,High Value
+CA-2017-137022,Scott Williamson,Office Supplies,Storage,811.28,8,24.3384,San Diego,California,6490.24,High Value
+US-2016-167339,Tamara Dahlen,Furniture,Chairs,1013.488,7,76.0116,San Diego,California,7094.42,High Value
+US-2016-164630,Erica Bern,Technology,Copiers,959.968,4,119.996,Charlotte,North Carolina,3839.87,High Value
+CA-2016-153577,Katharine Harms,Furniture,Chairs,539.658,3,-7.7094,Highland Park,Illinois,1618.97,High Value
+US-2017-120390,Tracy Hopkins,Office Supplies,Binders,1633.188,4,-1306.5504,Burlington,North Carolina,6532.75,High Value
+CA-2017-155880,Justin Deggeller,Furniture,Chairs,1526.56,7,427.4368,Milwaukee,Wisconsin,10685.92,High Value
+CA-2017-134915,Eugene Moren,Technology,Phones,671.984,2,50.3988,Glendale,Arizona,1343.97,High Value
+CA-2014-109232,Natalie DeCherney,Furniture,Chairs,545.94,6,87.3504,Mount Pleasant,South Carolina,3275.64,High Value
+CA-2016-139269,Julia Barnett,Office Supplies,Storage,1267.65,9,152.118,Columbus,Georgia,11408.85,High Value
+CA-2017-147291,Max Jones,Office Supplies,Binders,895.92,4,421.0824,Detroit,Michigan,3583.68,High Value
+CA-2017-116519,Craig Reiter,Office Supplies,Appliances,904.9,5,253.372,New York City,New York,4524.5,High Value
+CA-2017-134845,Sharelle Roach,Technology,Machines,2549.985,5,-3399.98,Louisville,Colorado,12749.93,High Value
+US-2016-160528,Mick Hernandez,Office Supplies,Storage,727.296,8,-172.7328,Pharr,Texas,5818.37,High Value
+US-2016-160528,Mick Hernandez,Technology,Accessories,666.4,7,-33.32,Pharr,Texas,4664.8,High Value
+CA-2017-116855,Arianne Irving,Furniture,Chairs,504.9,5,80.784,Chesapeake,Virginia,2524.5,High Value
+CA-2017-149559,Karen Ferguson,Furniture,Chairs,2054.272,8,256.784,Long Beach,California,16434.18,High Value
+CA-2015-135174,Benjamin Patterson,Technology,Phones,1022.97,5,-255.7425,Troy,Ohio,5114.85,High Value
+CA-2016-128517,Sean Wendt,Technology,Phones,517.9,2,134.654,Detroit,Michigan,1035.8,High Value
+US-2015-100377,Todd Sumrall,Technology,Copiers,2799.96,5,874.9875,Chicago,Illinois,13999.8,High Value
+US-2017-120089,Max Ludwig,Office Supplies,Appliances,663.936,4,82.992,Toledo,Ohio,2655.74,High Value
+CA-2014-119375,Yoseph Carroll,Office Supplies,Storage,2934.33,7,792.2691,Newark,Delaware,20540.31,High Value
+CA-2014-143903,Katherine Murray,Furniture,Chairs,981.372,2,-140.196,Dallas,Texas,1962.74,High Value
+US-2017-132297,Dianna Wilson,Technology,Phones,539.97,3,134.9925,Louisville,Kentucky,1619.91,High Value
+US-2017-159205,Daniel Byrd,Technology,Phones,671.93,7,188.1404,Henderson,Kentucky,4703.51,High Value
+CA-2017-119578,Jason Gross,Office Supplies,Supplies,695.16,6,34.758,Providence,Rhode Island,4170.96,High Value
+CA-2016-150350,Maxwell Schwartz,Technology,Machines,837.6,3,62.82,Seattle,Washington,2512.8,High Value
+CA-2016-150350,Maxwell Schwartz,Furniture,Chairs,532.704,6,-39.9528,Seattle,Washington,3196.22,High Value
+CA-2015-121720,Jim Epp,Furniture,Chairs,1123.92,5,-182.637,Lakeland,Florida,5619.6,High Value
+CA-2015-121720,Jim Epp,Office Supplies,Storage,1036.624,2,51.8312,Lakeland,Florida,2073.25,High Value
+CA-2015-121720,Jim Epp,Office Supplies,Storage,563.808,4,21.1428,Lakeland,Florida,2255.23,High Value
+CA-2014-136399,Chad Cunningham,Technology,Phones,627.168,4,70.5564,Los Angeles,California,2508.67,High Value
+CA-2017-131828,Cari Sayre,Furniture,Chairs,963.136,4,108.3528,Seattle,Washington,3852.54,High Value
+CA-2015-147830,Natalie Fritzler,Technology,Accessories,2025.36,6,607.608,Newark,Ohio,12152.16,High Value
+CA-2015-147830,Natalie Fritzler,Technology,Machines,1799.994,2,-2639.9912,Newark,Ohio,3599.99,High Value
+CA-2017-150497,Suzanne McNair,Office Supplies,Binders,735.98,2,331.191,Maple Grove,Minnesota,1471.96,High Value
+US-2016-133879,Kean Takahito,Furniture,Chairs,528.43,5,0.0,Chicago,Illinois,2642.15,High Value
+CA-2017-152912,Brian Moss,Technology,Accessories,826.62,3,355.4466,Columbia,Maryland,2479.86,High Value
+CA-2017-152912,Brian Moss,Office Supplies,Storage,1633.14,9,473.6106,Columbia,Maryland,14698.26,High Value
+CA-2017-152912,Brian Moss,Office Supplies,Storage,544.38,3,157.8702,Columbia,Maryland,1633.14,High Value
+CA-2014-158372,Ruben Dartt,Technology,Phones,601.536,8,60.1536,San Diego,California,4812.29,High Value
+CA-2017-104640,Frank Hawley,Office Supplies,Binders,931.176,3,314.2719,New York City,New York,2793.53,High Value
+CA-2014-140662,Thomas Seio,Office Supplies,Paper,733.95,7,352.296,San Francisco,California,5137.65,High Value
+CA-2017-133865,Penelope Sewall,Technology,Copiers,3359.952,6,1049.985,Los Angeles,California,20159.71,High Value
+CA-2014-102988,Greg Maxwell,Office Supplies,Supplies,4164.05,5,83.281,Alexandria,Virginia,20820.25,High Value
+CA-2017-113418,Corinna Mitchell,Technology,Machines,1704.89,11,767.2005,New York City,New York,18753.79,High Value
+CA-2017-136308,Mitch Willingham,Technology,Machines,1919.976,3,215.9973,San Francisco,California,5759.93,High Value
+US-2014-159926,Carlos Soltero,Technology,Phones,539.964,6,-107.9928,Philadelphia,Pennsylvania,3239.78,High Value
+US-2014-133130,Thea Hendricks,Furniture,Chairs,603.92,5,45.294,San Diego,California,3019.6,High Value
+CA-2014-134551,Tony Sayre,Furniture,Chairs,662.88,3,74.574,Columbia,Tennessee,1988.64,High Value
+CA-2014-165309,Karen Daniels,Office Supplies,Binders,896.99,5,-1480.0335,Houston,Texas,4484.95,High Value
+US-2017-109253,Patrick Ryan,Furniture,Tables,568.728,3,28.4364,Oakland,California,1706.18,High Value
+CA-2016-134887,Toby Braunhardt,Technology,Accessories,1287.45,5,244.6155,Norman,Oklahoma,6437.25,High Value
+CA-2015-130659,Maribeth Schnelling,Technology,Phones,1799.75,5,539.925,New York City,New York,8998.75,High Value
+CA-2017-148404,Dean percer,Office Supplies,Storage,580.672,4,65.3256,Charlotte,North Carolina,2322.69,High Value
+CA-2014-166471,Matthew Grinstein,Technology,Phones,1091.168,4,68.198,Seattle,Washington,4364.67,High Value
+CA-2014-102274,Dave Hallsten,Office Supplies,Paper,629.1,6,301.968,Richmond,Kentucky,3774.6,High Value
+CA-2016-134803,Clay Ludtke,Technology,Machines,558.4,2,41.88,Los Angeles,California,1116.8,High Value
+CA-2015-153381,Deanra Eno,Furniture,Chairs,1408.1,10,394.268,Dubuque,Iowa,14081.0,High Value
+CA-2017-168858,Justin Deggeller,Office Supplies,Appliances,2504.74,7,626.185,New York City,New York,17533.18,High Value
+CA-2017-136448,Adam Shillingsburg,Office Supplies,Binders,538.194,2,-412.6154,Philadelphia,Pennsylvania,1076.39,High Value
+CA-2016-131289,Stefania Perrino,Furniture,Tables,1421.664,6,-195.4788,San Francisco,California,8529.98,High Value
+CA-2014-124688,Corey Catlett,Technology,Phones,579.95,5,168.1855,Springfield,Virginia,2899.75,High Value
+CA-2014-124688,Corey Catlett,Furniture,Tables,1202.94,3,300.735,Springfield,Virginia,3608.82,High Value
+CA-2017-142034,Karen Bern,Technology,Accessories,655.9,5,275.478,Saint Cloud,Minnesota,3279.5,High Value
+CA-2017-142034,Karen Bern,Furniture,Chairs,603.92,4,181.176,Saint Cloud,Minnesota,2415.68,High Value
+CA-2016-107328,Cathy Armstrong,Furniture,Tables,513.024,2,12.8256,Los Angeles,California,1026.05,High Value
+CA-2016-150945,Julie Kriz,Office Supplies,Storage,900.08,4,117.0104,New York City,New York,3600.32,High Value
+CA-2014-166863,Sam Craven,Office Supplies,Storage,509.488,7,-127.372,Plano,Texas,3566.42,High Value
+CA-2017-140326,Helen Wasserman,Furniture,Bookcases,825.174,9,-117.882,Chicago,Illinois,7426.57,High Value
+US-2016-113649,Helen Andreada,Office Supplies,Appliances,569.536,4,64.0728,Fayetteville,North Carolina,2278.14,High Value
+CA-2015-124975,Michael Grace,Furniture,Tables,796.425,7,-525.6405,Aurora,Illinois,5574.97,High Value
+CA-2016-132731,George Ashbrook,Technology,Phones,657.552,6,49.3164,Dallas,Texas,3945.31,High Value
+CA-2017-148922,Stephanie Ulpright,Technology,Accessories,599.97,3,257.9871,Jackson,Mississippi,1799.91,High Value
+CA-2016-152555,Maria Etezadi,Furniture,Chairs,844.116,6,-36.1764,Chicago,Illinois,5064.7,High Value
+CA-2016-152555,Maria Etezadi,Technology,Phones,812.736,8,60.9552,Chicago,Illinois,6501.89,High Value
+CA-2014-120838,Patrick O'Donnell,Technology,Phones,604.752,6,37.797,Los Angeles,California,3628.51,High Value
+CA-2017-103877,Robert Dilbeck,Office Supplies,Binders,1577.94,3,757.4112,Independence,Missouri,4733.82,High Value
+CA-2017-168109,Jim Kriz,Technology,Machines,2395.2,6,209.58,Seattle,Washington,14371.2,High Value
+CA-2017-168109,Jim Kriz,Technology,Accessories,1687.8,4,742.632,Seattle,Washington,6751.2,High Value
+CA-2016-104157,Meg Tillman,Furniture,Tables,2430.08,8,388.8128,Jackson,Mississippi,19440.64,High Value
+CA-2015-121650,Keith Dawkins,Furniture,Tables,801.96,2,200.49,Jackson,Michigan,1603.92,High Value
+CA-2017-121839,Mick Hernandez,Technology,Phones,1169.694,3,-253.4337,Lancaster,Ohio,3509.08,High Value
+CA-2017-158729,Amy Cox,Office Supplies,Supplies,1665.62,2,33.3124,Lafayette,Louisiana,3331.24,High Value
+CA-2017-146535,Frank Merwin,Office Supplies,Storage,1443.96,12,375.4296,Richmond,Kentucky,17327.52,High Value
+CA-2014-159835,Randy Bradley,Furniture,Chairs,657.93,5,-93.99,Philadelphia,Pennsylvania,3289.65,High Value
+CA-2017-112529,Stewart Carmichael,Furniture,Tables,718.116,6,-71.8116,San Antonio,Texas,4308.7,High Value
+CA-2017-113530,Becky Castell,Furniture,Chairs,681.408,12,42.588,San Francisco,California,8176.9,High Value
+CA-2014-169726,Joseph Holt,Office Supplies,Binders,2060.744,7,643.9825,Seattle,Washington,14425.21,High Value
+CA-2017-132178,Darren Budd,Office Supplies,Storage,763.44,8,45.8064,Los Angeles,California,6107.52,High Value
+CA-2017-133004,Ashley Jarboe,Office Supplies,Appliances,638.73,9,166.0698,Lawrence,Indiana,5748.57,High Value
+CA-2015-104941,Dave Hallsten,Technology,Copiers,899.97,3,314.9895,Decatur,Alabama,2699.91,High Value
+CA-2017-113670,Roland Schwarz,Furniture,Tables,510.24,3,6.378,Los Angeles,California,1530.72,High Value
+CA-2014-135608,Jim Karlsson,Furniture,Chairs,603.92,5,45.294,Olympia,Washington,3019.6,High Value
+US-2014-169789,Maureen Fritzler,Office Supplies,Binders,551.985,5,-459.9875,Phoenix,Arizona,2759.93,High Value
+CA-2015-109575,Ken Heidel,Office Supplies,Storage,636.86,7,0.0,Clinton,Maryland,4458.02,High Value
+CA-2015-109575,Ken Heidel,Technology,Phones,1259.93,7,327.5818,Clinton,Maryland,8819.51,High Value
+CA-2017-161956,Dan Reichenbach,Technology,Copiers,879.984,2,329.994,Inglewood,California,1759.97,High Value
+CA-2017-161956,Dan Reichenbach,Office Supplies,Binders,841.568,2,294.5488,Inglewood,California,1683.14,High Value
+CA-2016-116799,Jason Gross,Furniture,Chairs,563.43,5,-56.343,Odessa,Texas,2817.15,High Value
+CA-2014-153913,Ken Black,Furniture,Chairs,1013.832,9,101.3832,Hialeah,Florida,9124.49,High Value
+CA-2016-155530,Charles McCrossin,Furniture,Tables,2003.52,6,-325.572,San Francisco,California,12021.12,High Value
+CA-2017-165204,Michael Nguyen,Office Supplies,Storage,720.064,4,-63.0056,Memphis,Tennessee,2880.26,High Value
+CA-2016-144218,Jonathan Doherty,Office Supplies,Storage,1085.42,7,282.2092,Los Angeles,California,7597.94,High Value
+CA-2017-147760,Kelly Lampkin,Furniture,Tables,523.764,3,-192.0468,Greensboro,North Carolina,1571.29,High Value
+CA-2017-147760,Kelly Lampkin,Technology,Phones,1359.96,5,118.9965,Greensboro,North Carolina,6799.8,High Value
+CA-2015-113628,Anna H�berlin,Furniture,Chairs,523.92,5,-72.039,Plantation,Florida,2619.6,High Value
+CA-2016-152471,Zuschuss Donatelli,Technology,Phones,823.96,5,51.4975,Jacksonville,Florida,4119.8,High Value
+CA-2015-102582,Natalie Webber,Furniture,Tables,801.96,2,200.49,Mobile,Alabama,1603.92,High Value
+CA-2015-102582,Natalie Webber,Furniture,Chairs,1056.86,7,306.4894,Mobile,Alabama,7398.02,High Value
+CA-2015-140984,Craig Carroll,Office Supplies,Storage,991.2,6,257.712,New York City,New York,5947.2,High Value
+CA-2015-140984,Craig Carroll,Technology,Copiers,879.984,2,329.994,New York City,New York,1759.97,High Value
+CA-2017-141733,Rick Wilson,Furniture,Chairs,1458.65,5,423.0085,Detroit,Michigan,7293.25,High Value
+CA-2014-105984,Muhammed Yedwab,Technology,Phones,1049.97,5,-209.994,Columbus,Ohio,5249.85,High Value
+CA-2014-105984,Muhammed Yedwab,Furniture,Chairs,611.058,3,-34.9176,Columbus,Ohio,1833.17,High Value
+CA-2014-126760,Kunst Miller,Technology,Phones,911.984,2,113.998,North Las Vegas,Nevada,1823.97,High Value
+CA-2014-126760,Kunst Miller,Furniture,Chairs,674.352,3,-109.5822,North Las Vegas,Nevada,2023.06,High Value
+CA-2014-101931,Todd Sumrall,Furniture,Bookcases,616.998,6,-36.294,Los Angeles,California,3701.99,High Value
+CA-2017-129000,Sam Zeldin,Office Supplies,Storage,501.81,3,0.0,Canton,Michigan,1505.43,High Value
+CA-2017-161053,Joel Eaton,Office Supplies,Binders,691.96,4,318.3016,Fayetteville,Arkansas,2767.84,High Value
+US-2017-105389,Darrin Martin,Technology,Phones,823.96,5,51.4975,San Antonio,Texas,4119.8,High Value
+CA-2015-132486,Jay Fein,Furniture,Chairs,842.352,3,42.1176,San Diego,California,2527.06,High Value
+US-2016-163881,Sung Pak,Technology,Accessories,659.9,2,217.767,Los Angeles,California,1319.8,High Value
+US-2016-163881,Sung Pak,Furniture,Chairs,1684.752,6,210.594,Los Angeles,California,10108.51,High Value
+US-2016-163881,Sung Pak,Technology,Accessories,559.92,8,190.3728,Los Angeles,California,4479.36,High Value
+CA-2015-167010,Valerie Takahito,Office Supplies,Storage,563.808,4,21.1428,Philadelphia,Pennsylvania,2255.23,High Value
+CA-2015-167010,Valerie Takahito,Furniture,Furnishings,547.136,4,-68.392,Philadelphia,Pennsylvania,2188.54,High Value
+US-2017-142573,Maris LaWare,Furniture,Tables,801.6,5,-448.896,Phoenix,Arizona,4008.0,High Value
+US-2016-143448,Mark Hamilton,Furniture,Chairs,1424.9,5,356.225,Greenwood,Indiana,7124.5,High Value
+US-2016-142685,Maureen Gnade,Office Supplies,Supplies,835.17,7,16.7034,Buffalo,New York,5846.19,High Value
+CA-2016-135265,Christopher Conant,Technology,Copiers,2799.96,5,944.9865,Los Angeles,California,13999.8,High Value
+CA-2017-112333,Karen Ferguson,Office Supplies,Storage,2591.56,4,621.9744,Plainfield,New Jersey,10366.24,High Value
+CA-2015-105627,Dana Kaydos,Furniture,Bookcases,512.94,3,97.4586,Kenosha,Wisconsin,1538.82,High Value
+CA-2015-105627,Dana Kaydos,Furniture,Chairs,860.93,7,189.4046,Kenosha,Wisconsin,6026.51,High Value
+CA-2015-105627,Dana Kaydos,Technology,Phones,769.95,5,223.2855,Kenosha,Wisconsin,3849.75,High Value
+CA-2016-145730,Chris Cortes,Furniture,Tables,637.896,3,-127.5792,San Antonio,Texas,1913.69,High Value
+CA-2015-165624,Fred Harton,Office Supplies,Appliances,542.94,3,152.0232,Atlanta,Georgia,1628.82,High Value
+CA-2014-154963,Anna Andreadi,Furniture,Chairs,853.93,5,0.0,Chester,Pennsylvania,4269.65,High Value
+CA-2017-130764,Jack O'Briant,Furniture,Bookcases,556.665,5,6.549,San Francisco,California,2783.33,High Value
+CA-2014-110786,Anthony Johnson,Technology,Machines,767.952,6,287.982,San Francisco,California,4607.71,High Value
+US-2015-166520,Katrina Edelman,Technology,Accessories,599.9,10,191.968,New York City,New York,5999.0,High Value
+CA-2014-122931,Suzanne McNair,Office Supplies,Storage,1801.632,6,-337.806,Philadelphia,Pennsylvania,10809.79,High Value
+CA-2014-163034,Darren Koutras,Office Supplies,Storage,646.2,5,-8.0775,Chicago,Illinois,3231.0,High Value
+CA-2015-124058,Lena Creighton,Furniture,Chairs,572.16,3,35.76,Oakland,California,1716.48,High Value
+CA-2014-102673,Ken Heidel,Technology,Phones,978.84,9,110.1195,Charlotte,North Carolina,8809.56,High Value
+CA-2015-156104,Nora Pelletier,Technology,Copiers,999.98,2,449.991,Indianapolis,Indiana,1999.96,High Value
+US-2015-164308,Steve Carroll,Technology,Phones,821.94,6,213.7044,Broken Arrow,Oklahoma,4931.64,High Value
+US-2014-156559,Lena Hernandez,Furniture,Bookcases,638.82,9,172.4814,Jonesboro,Arkansas,5749.38,High Value
+CA-2015-102491,Katrina Willman,Technology,Machines,3080.0,7,1416.8,Florence,Kentucky,21560.0,High Value
+CA-2015-102491,Katrina Willman,Technology,Phones,587.97,3,170.5113,Florence,Kentucky,1763.91,High Value
+CA-2014-116904,Sanjit Chand,Office Supplies,Binders,9449.95,5,4630.4755,Minneapolis,Minnesota,47249.75,High Value
+CA-2016-163573,Amy Cox,Office Supplies,Binders,1219.96,5,381.2375,Seattle,Washington,6099.8,High Value
+CA-2014-127299,John Lee,Technology,Machines,2624.985,3,-944.9946,Charlotte,North Carolina,7874.96,High Value
+CA-2017-105914,Paul Van Hugh,Office Supplies,Storage,1575.14,7,204.7682,Los Angeles,California,11025.98,High Value
+CA-2017-115546,Amy Hunt,Technology,Phones,539.97,3,134.9925,New York City,New York,1619.91,High Value
+CA-2015-163587,Emily Phan,Office Supplies,Binders,671.94,3,315.8118,Dover,New Hampshire,2015.82,High Value
+CA-2014-128846,Roland Schwarz,Technology,Phones,629.95,5,163.787,Columbia,South Carolina,3149.75,High Value
+CA-2017-166709,Hunter Lopez,Technology,Copiers,10499.97,3,5039.9856,Newark,Delaware,31499.91,High Value
+CA-2015-150875,Heather Kirkland,Furniture,Tables,696.42,2,160.1766,Boise,Idaho,1392.84,High Value
+CA-2015-143105,Matt Abelman,Technology,Copiers,799.984,2,249.995,New York City,New York,1599.97,High Value
+CA-2014-145387,Anne McFarland,Furniture,Chairs,1604.9,5,481.47,Cranston,Rhode Island,8024.5,High Value
+CA-2017-149881,Nick Crebassa,Technology,Machines,4799.984,2,359.9988,San Francisco,California,9599.97,High Value
+CA-2017-117702,Lindsay Shagiari,Furniture,Furnishings,1049.2,5,272.792,Baltimore,Maryland,5246.0,High Value
+CA-2016-157336,Shirley Jackson,Furniture,Chairs,751.92,4,150.384,Fairfield,Connecticut,3007.68,High Value
+CA-2014-168130,Bill Shonely,Furniture,Chairs,887.103,7,177.4206,New York City,New York,6209.72,High Value
+US-2016-131611,Emily Phan,Furniture,Tables,863.128,8,-160.2952,Houston,Texas,6905.02,High Value
+US-2016-131611,Emily Phan,Furniture,Bookcases,956.6648,7,-225.0976,Houston,Texas,6696.65,High Value
+US-2017-124821,Anne McFarland,Furniture,Tables,871.4,4,148.138,Seattle,Washington,3485.6,High Value
+CA-2015-166975,Stefanie Holloman,Furniture,Furnishings,692.472,11,190.4298,Jackson,Tennessee,7617.19,High Value
+US-2016-107440,Bill Shonely,Technology,Machines,9099.93,7,2365.9818,Lakewood,New Jersey,63699.51,High Value
+CA-2014-103100,Adrian Barton,Office Supplies,Binders,1103.97,3,496.7865,Indianapolis,Indiana,3311.91,High Value
+CA-2017-102407,Alyssa Tate,Furniture,Tables,896.328,9,22.4082,Los Angeles,California,8066.95,High Value
+CA-2017-129021,Patrick O'Brill,Technology,Phones,4367.896,13,327.5922,Tallahassee,Florida,56782.65,High Value
+CA-2014-125829,William Brown,Technology,Phones,666.344,7,66.6344,Los Angeles,California,4664.41,High Value
+CA-2014-125829,William Brown,Furniture,Tables,573.728,4,-64.5444,Los Angeles,California,2294.91,High Value
+CA-2017-130309,Giulietta Baptist,Office Supplies,Storage,544.38,3,157.8702,Arlington,Virginia,1633.14,High Value
+CA-2017-105410,Natalie DeCherney,Technology,Phones,657.504,6,-131.5008,San Francisco,California,3945.02,High Value
+CA-2016-120355,Magdelene Morse,Furniture,Chairs,631.782,2,140.396,New Rochelle,New York,1263.56,High Value
+CA-2015-155600,Rose O'Brian,Office Supplies,Binders,1598.058,7,-1065.372,Clarksville,Tennessee,11186.41,High Value
+CA-2017-162565,Ralph Ritter,Furniture,Chairs,520.464,2,-14.8704,Aurora,Illinois,1040.93,High Value
+CA-2017-111332,Nat Carroll,Office Supplies,Storage,704.76,4,162.0948,Fargo,North Dakota,2819.04,High Value
+CA-2014-166954,Beth Thompson,Furniture,Chairs,1487.04,5,148.704,San Gabriel,California,7435.2,High Value
+US-2015-122784,Russell Applegate,Furniture,Bookcases,913.43,5,-52.196,Highland Park,Illinois,4567.15,High Value
+CA-2017-111556,Carlos Daly,Technology,Phones,1259.97,3,327.5922,New York City,New York,3779.91,High Value
+CA-2016-131737,Gary Zandusky,Office Supplies,Appliances,901.95,3,297.6435,Columbia,Maryland,2705.85,High Value
+CA-2016-131737,Gary Zandusky,Furniture,Furnishings,971.5,5,252.59,Columbia,Maryland,4857.5,High Value
+CA-2014-130624,Toby Braunhardt,Technology,Phones,617.97,3,160.6722,New York City,New York,1853.91,High Value
+CA-2014-153983,Alan Hwang,Technology,Phones,575.92,2,71.99,San Francisco,California,1151.84,High Value
+CA-2017-119452,Clay Ludtke,Furniture,Chairs,1805.88,6,523.7052,Tulsa,Oklahoma,10835.28,High Value
+CA-2016-168893,Arthur Prichep,Furniture,Tables,842.94,3,160.1586,Henderson,Kentucky,2528.82,High Value
+US-2016-111290,Dennis Kane,Office Supplies,Storage,965.85,5,135.219,Westland,Michigan,4829.25,High Value
+CA-2016-147137,Anna Andreadi,Furniture,Bookcases,1279.165,5,225.735,San Francisco,California,6395.83,High Value
+CA-2017-105851,Sanjit Engle,Office Supplies,Supplies,1332.496,2,-299.8116,Denver,Colorado,2664.99,High Value
+CA-2014-150798,Joe Kamberova,Technology,Copiers,659.988,2,109.998,Columbus,Ohio,1319.98,High Value
+CA-2014-150798,Joe Kamberova,Furniture,Chairs,909.72,6,-51.984,Columbus,Ohio,5458.32,High Value
+CA-2017-112753,Craig Carreira,Furniture,Bookcases,917.9235,9,75.5937,Los Angeles,California,8261.31,High Value
+CA-2017-155075,Giulietta Weimer,Office Supplies,Binders,631.176,4,-462.8624,Philadelphia,Pennsylvania,2524.7,High Value
+US-2014-138247,Ben Ferrer,Technology,Phones,818.376,3,51.1485,Los Angeles,California,2455.13,High Value
+CA-2017-107167,Neil Ducich,Office Supplies,Storage,1347.52,8,84.22,Jacksonville,Florida,10780.16,High Value
+CA-2015-126557,Rob Lucas,Technology,Phones,537.544,7,53.7544,Chicago,Illinois,3762.81,High Value
+CA-2015-126557,Rob Lucas,Technology,Phones,659.168,4,49.4376,Chicago,Illinois,2636.67,High Value
+CA-2016-139395,Matthew Grinstein,Technology,Phones,657.93,7,184.2204,Jackson,Michigan,4605.51,High Value
+US-2017-163790,Nancy Lomonaco,Office Supplies,Binders,590.352,6,206.6232,Danville,California,3542.11,High Value
+CA-2016-129868,Mike Caudle,Furniture,Tables,902.712,3,33.8517,Los Angeles,California,2708.14,High Value
+CA-2015-135020,Maxwell Schwartz,Office Supplies,Storage,535.41,3,160.623,Rochester,New York,1606.23,High Value
+CA-2015-117800,Tracy Hopkins,Technology,Phones,589.9,2,147.475,Everett,Massachusetts,1179.8,High Value
+CA-2015-117800,Tracy Hopkins,Furniture,Chairs,542.94,3,141.1644,Everett,Massachusetts,1628.82,High Value
+CA-2017-145219,Robert Marley,Technology,Copiers,2879.952,6,1007.9832,Los Angeles,California,17279.71,High Value
+CA-2015-130456,David Smith,Furniture,Bookcases,586.398,6,34.494,San Francisco,California,3518.39,High Value
+CA-2016-102162,Jill Fjeld,Technology,Copiers,1599.92,8,751.9624,Newport News,Virginia,12799.36,High Value
+CA-2017-130141,Helen Abelman,Furniture,Chairs,579.136,4,-28.9568,Fort Collins,Colorado,2316.54,High Value
+CA-2015-147501,Corey-Lock,Technology,Machines,558.4,2,41.88,Seattle,Washington,1116.8,High Value
+CA-2015-112130,Stewart Visinsky,Furniture,Chairs,844.116,6,-36.1764,Philadelphia,Pennsylvania,5064.7,High Value
+US-2017-133200,Dorothy Badders,Furniture,Bookcases,623.4648,7,-119.1918,Fort Worth,Texas,4364.25,High Value
+US-2017-133200,Dorothy Badders,Office Supplies,Storage,772.68,5,-57.951,Fort Worth,Texas,3863.4,High Value
+CA-2016-133550,Ken Lonsdale,Technology,Phones,635.96,4,165.3496,Detroit,Michigan,2543.84,High Value
+CA-2016-127698,Mike Vittorini,Technology,Phones,863.928,9,86.3928,Raleigh,North Carolina,7775.35,High Value
+US-2015-138121,John Lee,Furniture,Chairs,546.66,9,136.665,Detroit,Michigan,4919.94,High Value
+CA-2017-138149,William Brown,Office Supplies,Binders,895.92,5,302.373,Los Angeles,California,4479.6,High Value
+CA-2017-143126,Corinna Mitchell,Furniture,Tables,521.96,2,88.7332,Seattle,Washington,1043.92,High Value
+CA-2016-131968,Laurel Beltran,Office Supplies,Appliances,671.544,3,50.3658,Apopka,Florida,2014.63,High Value
+CA-2014-119151,Mike Pelletier,Office Supplies,Storage,1117.92,4,55.896,New York City,New York,4471.68,High Value
+CA-2016-120530,Dorris liebe,Furniture,Chairs,658.746,3,146.388,New York City,New York,1976.24,High Value
+CA-2016-127649,Dionis Lloyd,Technology,Machines,837.6,3,62.82,Spokane,Washington,2512.8,High Value
+CA-2014-121573,Speros Goranitis,Technology,Phones,783.96,4,219.5088,New York City,New York,3135.84,High Value
+US-2014-167262,Amy Cox,Technology,Phones,742.336,8,83.5128,Avondale,Arizona,5938.69,High Value
+CA-2014-159310,Steven Cartwright,Furniture,Chairs,683.144,4,0.0,Houston,Texas,2732.58,High Value
+CA-2016-121370,Eugene Barchas,Technology,Copiers,1199.976,4,179.9964,Philadelphia,Pennsylvania,4799.9,High Value
+CA-2014-107818,Marc Crier,Furniture,Chairs,975.92,5,121.99,Pasco,Washington,4879.6,High Value
+CA-2016-101546,Grace Kelly,Office Supplies,Binders,1793.98,2,843.1706,Morristown,New Jersey,3587.96,High Value
+CA-2014-138940,Gary Mitchum,Technology,Phones,758.352,6,265.4232,Austin,Texas,4550.11,High Value
+CA-2017-122490,Ted Trevino,Furniture,Chairs,2404.704,6,150.294,Seattle,Washington,14428.22,High Value
+CA-2017-122490,Ted Trevino,Office Supplies,Binders,563.024,11,190.0206,Seattle,Washington,6193.26,High Value
+CA-2017-143567,Thomas Boland,Furniture,Chairs,975.92,4,292.776,Henderson,Kentucky,3903.68,High Value
+CA-2017-143567,Thomas Boland,Technology,Accessories,2249.91,9,517.4793,Henderson,Kentucky,20249.19,High Value
+CA-2016-163167,Randy Ferguson,Office Supplies,Storage,1126.02,3,56.301,Marietta,Georgia,3378.06,High Value
+CA-2016-163167,Randy Ferguson,Office Supplies,Storage,1263.3,6,315.825,Marietta,Georgia,7579.8,High Value
+CA-2016-135776,Edward Hooks,Office Supplies,Storage,1117.92,4,55.896,Seattle,Washington,4471.68,High Value
+US-2014-161613,Matt Connell,Furniture,Chairs,674.058,3,-19.2588,Houston,Texas,2022.17,High Value
+CA-2017-114055,Mick Hernandez,Office Supplies,Paper,629.1,6,301.968,Huntsville,Alabama,3774.6,High Value
+CA-2017-143245,Alan Dominguez,Furniture,Chairs,897.15,3,251.202,Fairfield,Connecticut,2691.45,High Value
+CA-2014-157147,Brian Dahlen,Office Supplies,Storage,1325.85,5,238.653,San Francisco,California,6629.25,High Value
+CA-2015-156482,Ivan Liston,Furniture,Chairs,1268.82,9,266.4522,Wilmington,Delaware,11419.38,High Value
+CA-2015-142202,Justin Ritter,Technology,Accessories,717.12,9,152.388,Jacksonville,Florida,6454.08,High Value
+CA-2015-165050,Alan Hwang,Technology,Phones,773.94,6,224.4426,New York City,New York,4643.64,High Value
+CA-2016-149279,Craig Leslie,Furniture,Chairs,1325.76,6,149.148,Colorado Springs,Colorado,7954.56,High Value
+CA-2017-107321,Arthur Wiediger,Technology,Phones,689.408,4,77.5584,San Francisco,California,2757.63,High Value
+US-2017-122714,Henry Goldwyn,Office Supplies,Binders,1889.99,5,-2929.4845,Chicago,Illinois,9449.95,High Value
+CA-2015-158659,Steve Chapman,Office Supplies,Storage,714.3,5,207.147,Richmond,Indiana,3571.5,High Value
+CA-2015-169796,Dean percer,Technology,Machines,2321.9,2,1114.512,New York City,New York,4643.8,High Value
+CA-2015-102876,Lisa Ryan,Technology,Phones,791.964,6,-131.994,Philadelphia,Pennsylvania,4751.78,High Value
+CA-2014-153850,Thea Hendricks,Technology,Phones,1502.376,4,-250.396,Toledo,Ohio,6009.5,High Value
+CA-2014-127558,Shahid Shariari,Technology,Accessories,772.47,3,146.7693,Los Angeles,California,2317.41,High Value
+CA-2016-133795,Jeremy Ellison,Technology,Accessories,772.47,3,146.7693,San Diego,California,2317.41,High Value
+CA-2015-103954,Hallie Redmond,Furniture,Bookcases,687.4,5,48.118,Milwaukee,Wisconsin,3437.0,High Value
+CA-2014-169803,Scott Cohen,Furniture,Tables,653.55,3,111.1035,Seattle,Washington,1960.65,High Value
+CA-2015-136469,Todd Sumrall,Technology,Phones,716.0,2,193.32,Wilmington,Delaware,1432.0,High Value
+CA-2016-158694,Arianne Irving,Office Supplies,Storage,720.76,4,187.3976,Los Angeles,California,2883.04,High Value
+CA-2015-141243,Amy Hunt,Furniture,Bookcases,1352.3976,9,-437.5404,Dallas,Texas,12171.58,High Value
+CA-2016-109722,Theone Pippenger,Technology,Phones,699.98,2,195.9944,Georgetown,Kentucky,1399.96,High Value
+CA-2016-109722,Theone Pippenger,Office Supplies,Storage,584.82,9,70.1784,Georgetown,Kentucky,5263.38,High Value
+CA-2017-142090,Shahid Collister,Furniture,Tables,1781.682,7,-653.2834,Burlington,North Carolina,12471.77,High Value
+CA-2014-124478,Matt Abelman,Technology,Copiers,549.99,1,274.995,Trenton,Michigan,549.99,Regular
+CA-2014-134572,Seth Vernon,Furniture,Tables,744.1,5,-95.67,Houston,Texas,3720.5,High Value
+CA-2015-127173,Gene McClure,Technology,Machines,629.93,7,296.0671,Oceanside,New York,4409.51,High Value
+CA-2014-160766,Darrin Martin,Technology,Machines,2799.96,4,1371.9804,New York City,New York,11199.84,High Value
+CA-2014-160766,Darrin Martin,Office Supplies,Appliances,601.3,2,198.429,New York City,New York,1202.6,High Value
+CA-2016-111213,Frank Preis,Furniture,Chairs,1317.492,6,292.776,New York City,New York,7904.95,High Value
+CA-2017-128734,James Lanier,Furniture,Chairs,842.376,3,105.297,Chandler,Arizona,2527.13,High Value
+CA-2014-141796,James Galang,Technology,Phones,1214.85,3,352.3065,Long Beach,New York,3644.55,High Value
+CA-2017-163006,Gary Hansen,Technology,Phones,1001.584,2,125.198,Chicago,Illinois,2003.17,High Value
+CA-2017-163006,Gary Hansen,Furniture,Chairs,569.058,3,-178.8468,Chicago,Illinois,1707.17,High Value
+CA-2014-111192,Tom Stivers,Furniture,Bookcases,1367.84,8,259.8896,Seattle,Washington,10942.72,High Value
+CA-2014-121006,Sam Craven,Furniture,Chairs,563.94,3,112.788,Midland,Michigan,1691.82,High Value
+CA-2014-121006,Sam Craven,Office Supplies,Storage,535.41,3,160.623,Midland,Michigan,1606.23,High Value
+CA-2016-122903,Laura Armstrong,Furniture,Chairs,3504.9,5,700.98,Detroit,Michigan,17524.5,High Value
+CA-2015-134719,John Dryer,Office Supplies,Storage,1801.632,6,-337.806,Jacksonville,Florida,10809.79,High Value
+US-2015-154389,Eugene Hildebrand,Technology,Phones,748.752,8,-162.2296,Philadelphia,Pennsylvania,5990.02,High Value
+CA-2015-115567,Zuschuss Carroll,Furniture,Chairs,1516.2,7,394.212,Columbus,Indiana,10613.4,High Value
+CA-2016-103982,Alex Avila,Office Supplies,Supplies,3930.072,3,-786.0144,Round Rock,Texas,11790.22,High Value
+CA-2017-117401,Paul Prost,Office Supplies,Appliances,706.86,7,197.9208,Springfield,Missouri,4948.02,High Value
+CA-2017-124436,Sue Ann Reed,Furniture,Tables,697.16,5,8.7145,Fresno,California,3485.8,High Value
+CA-2014-115084,Luke Schmidt,Furniture,Chairs,605.34,6,145.2816,Texarkana,Arkansas,3632.04,High Value
+CA-2015-162887,Stewart Visinsky,Furniture,Chairs,715.2,3,178.8,Burlington,Vermont,2145.6,High Value
+CA-2014-146283,Kean Takahito,Furniture,Chairs,966.7,5,-13.81,Houston,Texas,4833.5,High Value
+CA-2017-108791,Tony Molinari,Technology,Phones,543.92,8,135.98,Yonkers,New York,4351.36,High Value
+CA-2016-113831,Anna H�berlin,Furniture,Tables,2275.5,10,386.835,Springfield,Virginia,22755.0,High Value
+CA-2016-113831,Anna H�berlin,Technology,Accessories,1979.7,6,653.301,Springfield,Virginia,11878.2,High Value
+CA-2017-131254,Nathan Cano,Office Supplies,Binders,1525.188,6,-2287.782,Houston,Texas,9151.13,High Value
+US-2017-162558,Dean percer,Furniture,Tables,2314.116,7,-1002.7836,Knoxville,Tennessee,16198.81,High Value
+CA-2015-146486,Dianna Vittorini,Technology,Accessories,899.95,5,53.997,Oceanside,New York,4499.75,High Value
+CA-2017-108539,Steven Cartwright,Office Supplies,Storage,725.84,4,210.4936,Los Angeles,California,2903.36,High Value
+CA-2017-100951,Noah Childs,Office Supplies,Storage,720.76,5,54.057,Dallas,Texas,3603.8,High Value
+CA-2017-161410,Chris Cortes,Technology,Phones,545.916,14,72.7888,Philadelphia,Pennsylvania,7642.82,High Value
+US-2014-123183,Georgia Rosenberg,Furniture,Bookcases,1025.88,6,235.9524,Wilmington,Delaware,6155.28,High Value
+CA-2016-117681,Herbert Flentye,Furniture,Bookcases,556.665,5,6.549,Los Angeles,California,2783.33,High Value
+CA-2016-153598,Neoma Murray,Technology,Accessories,1649.95,5,659.98,Los Angeles,California,8249.75,High Value
+US-2016-108497,Marc Harrigan,Furniture,Bookcases,599.165,5,35.245,Los Angeles,California,2995.83,High Value
+CA-2015-160171,Robert Marley,Office Supplies,Appliances,1640.7,5,459.396,Los Angeles,California,8203.5,High Value
+CA-2016-167115,Evan Henry,Office Supplies,Binders,588.784,2,183.995,New York City,New York,1177.57,High Value
+CA-2017-116680,Pete Kriz,Furniture,Tables,1478.272,8,92.392,San Francisco,California,11826.18,High Value
+CA-2014-132451,Karen Ferguson,Furniture,Chairs,585.552,3,73.194,San Diego,California,1756.66,High Value
+CA-2017-121741,Yoseph Carroll,Office Supplies,Storage,750.68,2,37.534,Fremont,Nebraska,1501.36,High Value
+CA-2017-164378,Michelle Moray,Furniture,Chairs,664.146,6,88.5528,New York City,New York,3984.88,High Value
+CA-2017-127782,Thea Hudgings,Technology,Phones,859.2,4,-186.16,Philadelphia,Pennsylvania,3436.8,High Value
+US-2016-138408,Karen Carlisle,Technology,Accessories,1319.96,4,527.984,Huntsville,Alabama,5279.84,High Value
+CA-2017-160885,Juliana Krohn,Technology,Phones,2479.96,4,743.988,Omaha,Nebraska,9919.84,High Value
+US-2015-114741,Ivan Liston,Office Supplies,Storage,1325.85,5,238.653,North Las Vegas,Nevada,6629.25,High Value
+CA-2017-133263,Jim Epp,Technology,Copiers,2999.95,5,1439.976,Atlanta,Georgia,14999.75,High Value
+CA-2017-157966,Stephanie Ulpright,Technology,Copiers,959.984,2,335.9944,Chicago,Illinois,1919.97,High Value
+CA-2017-105333,Victor Preis,Technology,Phones,546.06,3,163.818,New York City,New York,1638.18,High Value
+CA-2015-142475,Bill Stewart,Office Supplies,Binders,590.352,6,206.6232,New York City,New York,3542.11,High Value
+CA-2017-117198,Barry Gonzalez,Technology,Accessories,659.9,2,217.767,Monroe,Louisiana,1319.8,High Value
+CA-2017-121027,Helen Wasserman,Technology,Accessories,843.9,2,371.316,Seattle,Washington,1687.8,High Value
+CA-2017-121027,Helen Wasserman,Technology,Accessories,1496.16,9,224.424,Seattle,Washington,13465.44,High Value
+CA-2016-158001,Jennifer Patt,Office Supplies,Appliances,1040.8,5,281.016,New York City,New York,5204.0,High Value
+CA-2014-126683,Paul Prost,Furniture,Tables,2348.82,9,399.2994,Seattle,Washington,21139.38,High Value
+US-2016-146066,Rick Bensley,Furniture,Tables,815.292,9,-339.705,Philadelphia,Pennsylvania,7337.63,High Value
+CA-2014-127614,Natalie Fritzler,Furniture,Tables,1256.22,6,75.3732,Chesapeake,Virginia,7537.32,High Value
+CA-2014-154893,Gary McGarr,Furniture,Chairs,1325.76,6,149.148,San Diego,California,7954.56,High Value
+CA-2014-154893,Gary McGarr,Furniture,Chairs,572.16,3,35.76,San Diego,California,1716.48,High Value
+CA-2017-142342,Anthony Johnson,Furniture,Bookcases,1194.165,5,210.735,Apple Valley,California,5970.83,High Value
+CA-2016-108875,Craig Leslie,Office Supplies,Storage,511.056,9,-95.823,Aurora,Colorado,4599.5,High Value
+CA-2014-164315,Rob Dowd,Technology,Phones,1049.93,7,293.9804,Athens,Georgia,7349.51,High Value
+US-2015-138093,Kalyca Meade,Furniture,Chairs,542.94,3,141.1644,Baltimore,Maryland,1628.82,High Value
+US-2015-160857,Natalie Webber,Technology,Copiers,2799.944,7,1014.9797,New York City,New York,19599.61,High Value
+CA-2015-124107,Brian Moss,Technology,Accessories,619.95,5,111.591,Ann Arbor,Michigan,3099.75,High Value
+CA-2015-103933,Dan Reichenbach,Technology,Accessories,899.91,9,395.9604,New York City,New York,8099.19,High Value
+CA-2015-110548,Anna H�berlin,Technology,Phones,946.344,7,118.293,Houston,Texas,6624.41,High Value
+CA-2017-117324,Jeremy Pistek,Office Supplies,Appliances,1089.75,3,305.13,Madison,Wisconsin,3269.25,High Value
+CA-2017-143574,Dan Reichenbach,Furniture,Bookcases,638.82,9,185.2578,Milford,Connecticut,5749.38,High Value
+US-2017-147886,Dave Hallsten,Technology,Machines,532.72,2,53.272,Fairfield,California,1065.44,High Value
+US-2017-147886,Dave Hallsten,Office Supplies,Storage,795.48,7,7.9548,Fairfield,California,5568.36,High Value
+CA-2016-118514,Liz Carlisle,Furniture,Chairs,866.4,4,225.264,Richmond,Kentucky,3465.6,High Value
+CA-2014-163748,Hunter Glantz,Technology,Copiers,1999.96,5,624.9875,Fort Worth,Texas,9999.8,High Value
+CA-2017-158169,Justin MacKendrick,Office Supplies,Appliances,542.94,3,152.0232,Lake Forest,California,1628.82,High Value
+CA-2015-162047,Fred Hopkins,Furniture,Chairs,1448.82,10,209.274,Long Beach,New York,14488.2,High Value
+CA-2015-103835,Shaun Chance,Office Supplies,Appliances,1158.12,4,335.8548,Los Angeles,California,4632.48,High Value
+CA-2015-158939,Erin Ashbrook,Technology,Copiers,599.99,1,233.9961,Springfield,Missouri,599.99,Regular
+CA-2016-142398,Beth Paige,Furniture,Chairs,638.288,7,-31.9144,Los Angeles,California,4468.02,High Value
+CA-2014-124856,Lisa DeCherney,Office Supplies,Storage,1395.54,9,362.8404,New York City,New York,12559.86,High Value
+CA-2014-123225,Michael Nguyen,Technology,Phones,575.968,4,43.1976,El Paso,Texas,2303.87,High Value
+US-2015-163279,Justin Deggeller,Technology,Phones,1487.976,3,185.997,San Diego,California,4463.93,High Value
+CA-2016-122063,Michael Moore,Furniture,Tables,581.96,2,104.7528,Richmond,Indiana,1163.92,High Value
+CA-2015-111206,Roland Fjeld,Technology,Accessories,519.96,4,176.7864,San Diego,California,2079.84,High Value
+CA-2015-126725,Brian Stugart,Office Supplies,Storage,777.21,7,54.4047,San Diego,California,5440.47,High Value
+CA-2015-121783,Philisse Overcash,Office Supplies,Appliances,715.64,2,178.91,Roseville,Minnesota,1431.28,High Value
+CA-2015-121783,Philisse Overcash,Office Supplies,Storage,795.51,3,143.1918,Roseville,Minnesota,2386.53,High Value
+CA-2015-121783,Philisse Overcash,Technology,Copiers,549.99,1,274.995,Roseville,Minnesota,549.99,Regular
+US-2014-117968,Ricardo Sperren,Furniture,Chairs,1133.35,5,294.671,Meriden,Connecticut,5666.75,High Value
+CA-2016-152247,Michelle Arnett,Furniture,Chairs,1603.136,4,100.196,Cheyenne,Wyoming,6412.54,High Value
+CA-2016-128223,Ed Braxton,Furniture,Tables,1293.488,7,80.843,Anaheim,California,9054.42,High Value
+CA-2016-133935,Jane Waco,Furniture,Chairs,801.568,2,50.098,San Diego,California,1603.14,High Value
+CA-2016-133935,Jane Waco,Furniture,Chairs,885.528,9,-99.6219,San Diego,California,7969.75,High Value
+CA-2016-136301,Edward Hooks,Office Supplies,Supplies,4912.59,3,196.5036,San Francisco,California,14737.77,High Value
+US-2015-126977,Peter Fuller,Furniture,Bookcases,4228.704,6,158.5764,New York City,New York,25372.22,High Value
+US-2015-126977,Peter Fuller,Furniture,Bookcases,2003.92,5,-25.049,New York City,New York,10019.6,High Value
+US-2015-126977,Peter Fuller,Technology,Accessories,659.9,2,217.767,New York City,New York,1319.8,High Value
+CA-2017-150420,Giulietta Dortch,Technology,Accessories,1099.5,10,362.835,Bellingham,Washington,10995.0,High Value
+US-2014-118997,Ruben Ausman,Furniture,Tables,1215.92,8,316.1392,Decatur,Alabama,9727.36,High Value
+US-2017-169551,Rob Lucas,Technology,Phones,683.988,2,-113.998,Philadelphia,Pennsylvania,1367.98,High Value
+US-2017-169551,Rob Lucas,Technology,Accessories,527.92,2,85.787,Philadelphia,Pennsylvania,1055.84,High Value
+CA-2014-155796,Tom Stivers,Furniture,Bookcases,521.96,4,-250.5408,Reading,Pennsylvania,2087.84,High Value
+CA-2016-127138,Dean Katz,Furniture,Chairs,770.352,3,77.0352,San Francisco,California,2311.06,High Value
+CA-2014-140732,Matt Abelman,Technology,Phones,575.928,9,57.5928,Los Angeles,California,5183.35,High Value
+CA-2017-116953,Susan Vittorini,Technology,Phones,552.0,10,34.5,Mesa,Arizona,5520.0,High Value
+CA-2016-163776,Joy Smith,Furniture,Bookcases,504.9,5,126.225,Hattiesburg,Mississippi,2524.5,High Value
+US-2017-163300,Erica Smith,Office Supplies,Binders,2357.488,7,884.058,Los Angeles,California,16502.42,High Value
+CA-2015-135580,Clay Ludtke,Technology,Machines,2548.56,6,286.713,Los Angeles,California,15291.36,High Value
+CA-2016-159016,Karen Ferguson,Technology,Phones,4158.912,8,363.9048,Los Angeles,California,33271.3,High Value
+CA-2017-139717,Darrin Martin,Office Supplies,Appliances,646.272,8,64.6272,Lancaster,Ohio,5170.18,High Value
+CA-2017-122364,Frank Atkinson,Technology,Phones,859.2,3,75.18,Los Angeles,California,2577.6,High Value
+CA-2017-122364,Frank Atkinson,Technology,Machines,506.28,3,177.198,Los Angeles,California,1518.84,High Value
+CA-2016-154662,Benjamin Farhat,Furniture,Tables,692.94,3,173.235,Minneapolis,Minnesota,2078.82,High Value
+CA-2015-105571,Christine Phan,Office Supplies,Binders,1345.485,5,-1031.5385,Miami,Florida,6727.42,High Value
+CA-2015-111780,Ralph Arnett,Technology,Copiers,1199.96,5,224.9925,San Diego,California,5999.8,High Value
+CA-2017-166695,Chuck Clark,Furniture,Chairs,518.272,8,-97.176,Lakewood,California,4146.18,High Value
+CA-2017-100111,Seth Vernon,Furniture,Chairs,2888.127,11,609.7157,New York City,New York,31769.4,High Value
+CA-2017-100111,Seth Vernon,Technology,Phones,1299.66,2,350.9082,New York City,New York,2599.32,High Value
+CA-2017-100111,Seth Vernon,Furniture,Chairs,2254.41,5,375.735,New York City,New York,11272.05,High Value
+CA-2016-124590,Susan Pistek,Furniture,Chairs,1474.802,7,-21.0686,Parma,Ohio,10323.61,High Value
+CA-2016-124590,Susan Pistek,Furniture,Chairs,1537.074,9,0.0,Parma,Ohio,13833.67,High Value
+US-2016-113677,Corinna Mitchell,Technology,Phones,2279.96,4,592.7896,New York City,New York,9119.84,High Value
+CA-2014-163447,Thomas Brumley,Furniture,Chairs,767.214,14,161.9674,New York City,New York,10741.0,High Value
+CA-2014-111871,Eileen Kiefer,Furniture,Bookcases,1198.33,10,70.49,San Francisco,California,11983.3,High Value
+CA-2016-161025,Gary McGarr,Office Supplies,Storage,772.68,4,108.1752,Los Angeles,California,3090.72,High Value
+US-2014-106299,Nick Zandusky,Office Supplies,Storage,838.38,2,226.3626,Springfield,Missouri,1676.76,High Value
+CA-2015-158421,Giulietta Baptist,Furniture,Chairs,1690.04,4,422.51,Columbia,South Carolina,6760.16,High Value
+CA-2015-158421,Giulietta Baptist,Technology,Phones,629.95,5,176.386,Columbia,South Carolina,3149.75,High Value
+CA-2015-158421,Giulietta Baptist,Office Supplies,Storage,887.84,8,17.7568,Columbia,South Carolina,7102.72,High Value
+CA-2016-157259,Jessica Myrick,Furniture,Furnishings,799.56,9,207.8856,New York City,New York,7196.04,High Value
+CA-2015-146675,Sarah Brown,Technology,Copiers,1439.968,4,485.9892,Evanston,Illinois,5759.87,High Value
+CA-2016-118332,Pete Kriz,Furniture,Chairs,563.92,5,7.049,Apple Valley,California,2819.6,High Value
+CA-2017-119809,Yana Sorensen,Office Supplies,Binders,2793.528,9,942.8157,Seattle,Washington,25141.75,High Value
+CA-2017-119809,Yana Sorensen,Office Supplies,Storage,1000.02,7,290.0058,Seattle,Washington,7000.14,High Value
+US-2017-142188,Jennifer Ferguson,Office Supplies,Binders,1471.96,5,459.9875,Seattle,Washington,7359.8,High Value
+CA-2017-102379,Brenda Bowman,Furniture,Chairs,1159.056,9,43.4646,Oakland,California,10431.5,High Value
+CA-2016-100944,Edward Hooks,Furniture,Chairs,563.24,5,56.324,Los Angeles,California,2816.2,High Value
+CA-2016-125080,Victoria Wilson,Furniture,Tables,661.176,2,-231.4116,Lakewood,Ohio,1322.35,High Value
+CA-2014-100090,Ed Braxton,Furniture,Tables,502.488,3,-87.9354,San Francisco,California,1507.46,High Value
+US-2015-139675,Nicole Fjeld,Furniture,Chairs,915.136,4,102.9528,Chico,California,3660.54,High Value
+CA-2017-143756,Max Engle,Furniture,Chairs,701.96,2,168.4704,Salem,Virginia,1403.92,High Value
+CA-2014-141313,Anthony Jacobs,Office Supplies,Appliances,1737.18,6,503.7822,Beverly,Massachusetts,10423.08,High Value
+CA-2014-141313,Anthony Jacobs,Office Supplies,Storage,704.25,5,84.51,Beverly,Massachusetts,3521.25,High Value
+CA-2016-163328,Tracy Poddar,Furniture,Chairs,650.352,3,-97.5528,Eugene,Oregon,1951.06,High Value
+CA-2016-163328,Tracy Poddar,Office Supplies,Labels,629.184,8,228.0792,Eugene,Oregon,5033.47,High Value
+CA-2017-120019,Nat Gilpin,Office Supplies,Storage,579.51,3,81.1314,Fairfield,Connecticut,1738.53,High Value
+CA-2017-143112,Todd Sumrall,Technology,Machines,5199.96,4,1351.9896,New York City,New York,20799.84,High Value
+CA-2015-146255,Eugene Moren,Technology,Phones,587.97,3,170.5113,Newark,Delaware,1763.91,High Value
+CA-2017-110443,Chloris Kastensmidt,Technology,Machines,1039.992,1,103.9992,Renton,Washington,1039.99,High Value
+CA-2014-107811,Laura Armstrong,Furniture,Chairs,561.584,2,70.198,Memphis,Tennessee,1123.17,High Value
+CA-2017-151981,Gary Mitchum,Technology,Phones,824.95,5,247.485,Concord,New Hampshire,4124.75,High Value
+CA-2017-154074,Bart Watters,Furniture,Chairs,569.568,2,7.1196,Spokane,Washington,1139.14,High Value
+CA-2017-161774,Greg Tran,Furniture,Chairs,899.43,5,-12.849,Houston,Texas,4497.15,High Value
+CA-2016-143714,Christopher Conant,Technology,Copiers,8399.976,4,1119.9968,Philadelphia,Pennsylvania,33599.9,High Value
+CA-2014-165764,Shahid Hopkins,Furniture,Tables,945.036,6,-299.2614,Jacksonville,North Carolina,5670.22,High Value
+US-2017-113992,Lena Creighton,Furniture,Tables,974.988,4,-97.4988,Plano,Texas,3899.95,High Value
+CA-2014-166891,Chris Cortes,Furniture,Chairs,589.41,5,-6.549,New York City,New York,2947.05,High Value
+CA-2016-163804,Deborah Brumfield,Office Supplies,Storage,2079.4,5,582.232,Providence,Rhode Island,10397.0,High Value
+CA-2016-163804,Deborah Brumfield,Technology,Phones,629.95,5,176.386,Providence,Rhode Island,3149.75,High Value
+CA-2016-113292,Dave Brooks,Office Supplies,Appliances,871.8,3,87.18,Columbia,Tennessee,2615.4,High Value
+CA-2017-140872,Nick Radford,Technology,Phones,503.96,5,50.396,Pembroke Pines,Florida,2519.8,High Value
+CA-2015-120621,Julia West,Office Supplies,Appliances,962.08,4,156.338,Jacksonville,North Carolina,3848.32,High Value
+CA-2014-129147,Liz Carlisle,Technology,Phones,539.964,6,-107.9928,Medina,Ohio,3239.78,High Value
+CA-2017-128265,Victoria Wilson,Office Supplies,Storage,1247.64,3,349.3392,New York City,New York,3742.92,High Value
+CA-2017-138289,Andy Reiter,Office Supplies,Binders,5443.96,4,2504.2216,Jackson,Michigan,21775.84,High Value
+CA-2016-157791,Carol Adams,Technology,Copiers,1999.96,4,899.982,Warwick,Rhode Island,7999.84,High Value
+CA-2014-128209,Greg Tran,Office Supplies,Binders,2152.776,3,726.5619,Buffalo,New York,6458.33,High Value
+CA-2014-128209,Greg Tran,Furniture,Bookcases,4007.84,10,-50.098,Buffalo,New York,40078.4,High Value
+CA-2014-113880,Vicky Freymann,Furniture,Chairs,634.116,6,-172.1172,Elmhurst,Illinois,3804.7,High Value
+CA-2014-137092,Lindsay Shagiari,Office Supplies,Storage,505.32,3,31.5825,Chicago,Illinois,1515.96,High Value
+CA-2015-166947,Edward Becker,Furniture,Chairs,1522.638,9,169.182,Buffalo,New York,13703.74,High Value
+CA-2014-166086,Carol Triggs,Furniture,Chairs,872.32,4,244.2496,Lawrence,Massachusetts,3489.28,High Value
+CA-2016-160535,Barry Pond,Office Supplies,Storage,563.4,4,67.608,Plainfield,New Jersey,2253.6,High Value
+CA-2017-123085,Ed Jacobs,Technology,Accessories,1049.44,8,440.7648,Los Angeles,California,8395.52,High Value
+CA-2014-103660,Mitch Webber,Technology,Phones,1007.944,7,75.5958,Seattle,Washington,7055.61,High Value
+US-2017-167402,Cathy Prescott,Office Supplies,Supplies,4164.05,5,83.281,Springfield,Missouri,20820.25,High Value
+CA-2014-145541,Tom Boeckenhauer,Technology,Machines,6999.96,4,2239.9872,New York City,New York,27999.84,High Value
+CA-2016-105081,Joe Elijah,Furniture,Chairs,698.352,3,52.3764,Seattle,Washington,2095.06,High Value
+CA-2016-105081,Joe Elijah,Furniture,Tables,1747.25,5,629.01,Seattle,Washington,8736.25,High Value
+CA-2017-144498,Mick Brown,Technology,Phones,627.168,4,70.5564,Charlotte,North Carolina,2508.67,High Value
+CA-2014-108609,Anthony Jacobs,Furniture,Tables,1421.664,8,-734.5264,Lorain,Ohio,11373.31,High Value
+US-2016-127334,Mike Pelletier,Furniture,Tables,564.195,3,-304.6653,Springfield,Oregon,1692.59,High Value
+CA-2015-165162,Hunter Glantz,Office Supplies,Storage,1117.92,4,55.896,Los Angeles,California,4471.68,High Value
+CA-2016-112277,Steve Chapman,Technology,Phones,519.68,7,58.464,Fort Lauderdale,Florida,3637.76,High Value
+CA-2015-123141,Gary Zandusky,Furniture,Chairs,883.84,4,99.432,Rio Rancho,New Mexico,3535.36,High Value
+CA-2015-156734,Benjamin Venier,Furniture,Chairs,643.136,4,56.2744,Smyrna,Tennessee,2572.54,High Value
+CA-2016-123358,Brian Thompson,Office Supplies,Storage,579.51,3,81.1314,San Francisco,California,1738.53,High Value
+CA-2017-159156,Ken Brennan,Technology,Phones,629.95,5,163.787,New York City,New York,3149.75,High Value
+CA-2017-124205,Theresa Coyne,Furniture,Chairs,512.96,4,143.6288,Lakewood,New Jersey,2051.84,High Value
+CA-2016-144764,Rob Lucas,Technology,Machines,1362.9,3,-19.47,Chicago,Illinois,4088.7,High Value
+CA-2014-144414,Gary Hwang,Office Supplies,Binders,3266.376,3,1061.5722,Seattle,Washington,9799.13,High Value
+CA-2016-118689,Tamara Chand,Technology,Copiers,17499.95,5,8399.976,Lafayette,Indiana,87499.75,High Value
+CA-2016-118689,Tamara Chand,Office Supplies,Binders,735.98,2,331.191,Lafayette,Indiana,1471.96,High Value
+CA-2017-107517,Fred Chung,Office Supplies,Appliances,1640.7,5,459.396,Torrance,California,8203.5,High Value
+CA-2016-123946,Anthony Johnson,Furniture,Chairs,1059.12,4,307.1448,Springfield,Virginia,4236.48,High Value
+US-2016-100461,Jack O'Briant,Furniture,Bookcases,1565.88,6,407.1288,Franklin,Wisconsin,9395.28,High Value
+US-2016-126452,Scot Coram,Furniture,Tables,2887.056,9,180.441,Los Angeles,California,25983.5,High Value
+US-2016-121013,Michael Moore,Furniture,Tables,1652.94,3,314.0586,Chesapeake,Virginia,4958.82,High Value
+CA-2015-137113,Tamara Willingham,Furniture,Chairs,2003.92,5,125.245,Seattle,Washington,10019.6,High Value
+CA-2015-137113,Tamara Willingham,Furniture,Tables,1913.4,9,401.814,Seattle,Washington,17220.6,High Value
+CA-2015-120677,Bill Donatelli,Furniture,Chairs,2567.84,8,770.352,Minneapolis,Minnesota,20542.72,High Value
+US-2015-165512,Vivek Sundaresam,Furniture,Chairs,602.651,7,-163.5767,Naperville,Illinois,4218.56,High Value
+CA-2015-140557,Tanja Norvell,Technology,Accessories,559.93,7,167.979,New York City,New York,3919.51,High Value
+US-2017-135013,Harold Ryan,Technology,Copiers,2399.96,5,839.986,Huntington Beach,California,11999.8,High Value
+CA-2016-140249,Shaun Weien,Technology,Phones,1001.584,2,125.198,Seattle,Washington,2003.17,High Value
+CA-2014-124247,Stefanie Holloman,Furniture,Chairs,1403.92,5,70.196,Sacramento,California,7019.6,High Value
+CA-2015-137925,Janet Lee,Furniture,Bookcases,681.408,12,42.588,New York City,New York,8176.9,High Value
+CA-2016-140382,Ruben Dartt,Technology,Phones,862.344,7,97.0137,San Francisco,California,6036.41,High Value
+CA-2017-107132,Scott Cohen,Office Supplies,Storage,713.88,4,214.164,New York City,New York,2855.52,High Value
+CA-2015-139248,Russell D'Ascenzo,Technology,Phones,623.96,5,38.9975,Los Angeles,California,3119.8,High Value
+CA-2016-106243,Greg Matthias,Furniture,Bookcases,523.92,5,-26.196,New York City,New York,2619.6,High Value
+CA-2015-129917,Henry MacAllister,Technology,Phones,503.96,5,50.396,Los Angeles,California,2519.8,High Value
+CA-2015-110765,Michael Paige,Technology,Phones,824.97,3,214.4922,New York City,New York,2474.91,High Value
+CA-2015-112144,Craig Yedwab,Furniture,Furnishings,621.76,4,46.632,Gilbert,Arizona,2487.04,High Value
+CA-2017-158561,Brenda Bowman,Office Supplies,Appliances,1158.12,5,130.2885,Fort Lauderdale,Florida,5790.6,High Value
+CA-2015-154823,Katherine Nockton,Furniture,Chairs,598.458,3,-42.747,Springfield,Ohio,1795.37,High Value
+CA-2014-114790,Filia McAdams,Technology,Phones,587.97,3,164.6316,Richmond,Kentucky,1763.91,High Value
+CA-2017-119494,Jim Epp,Furniture,Chairs,523.392,3,52.3392,San Diego,California,1570.18,High Value
+US-2017-165358,Seth Vernon,Technology,Copiers,599.97,5,69.9965,Philadelphia,Pennsylvania,2999.85,High Value
+CA-2016-165330,William Brown,Furniture,Tables,892.136,7,111.517,Anaheim,California,6244.95,High Value
+CA-2014-106726,Roland Schwarz,Office Supplies,Storage,1261.33,7,327.9458,Los Angeles,California,8829.31,High Value
+CA-2016-106950,Joe Elijah,Technology,Accessories,1012.68,3,303.804,Charlotte,North Carolina,3038.04,High Value
+CA-2017-118724,Anthony Rawles,Technology,Phones,1626.192,9,121.9644,Concord,California,14635.73,High Value
+CA-2017-128944,Katharine Harms,Furniture,Chairs,760.116,6,-43.4352,Newark,Ohio,4560.7,High Value
+US-2016-102239,Lindsay Williams,Furniture,Tables,1685.88,6,320.3172,Henderson,Nevada,10115.28,High Value
+CA-2017-141439,Tonja Turnell,Technology,Phones,1879.96,4,545.1884,Richmond,Indiana,7519.84,High Value
+CA-2017-141439,Tonja Turnell,Furniture,Chairs,828.6,3,240.294,Richmond,Indiana,2485.8,High Value
+US-2017-141558,Marc Harrigan,Technology,Phones,776.85,5,-181.265,Philadelphia,Pennsylvania,3884.25,High Value
+CA-2015-166583,Valerie Dominguez,Technology,Phones,971.88,3,109.3365,Houston,Texas,2915.64,High Value
+CA-2014-117464,Naresj Patel,Furniture,Chairs,717.72,3,71.772,San Francisco,California,2153.16,High Value
+US-2017-141677,Heather Kirkland,Technology,Copiers,2399.96,5,569.9905,Houston,Texas,11999.8,High Value
+CA-2017-128853,Janet Martin,Furniture,Chairs,908.82,9,227.205,Baltimore,Maryland,8179.38,High Value
+CA-2016-164399,Dianna Wilson,Furniture,Tables,674.352,3,-8.4294,San Diego,California,2023.06,High Value
+CA-2016-110492,John Stevenson,Office Supplies,Storage,1350.12,6,175.5156,Atlanta,Georgia,8100.72,High Value
+CA-2016-120369,Victoria Brennan,Furniture,Furnishings,756.8,5,75.68,Rochester,New York,3784.0,High Value
+CA-2017-127397,Erin Smith,Technology,Accessories,1319.8,5,214.4675,Philadelphia,Pennsylvania,6599.0,High Value
+CA-2017-118892,Tom Prescott,Furniture,Chairs,4416.174,9,-630.882,Philadelphia,Pennsylvania,39745.57,High Value
+CA-2015-158491,Becky Pak,Technology,Accessories,989.97,3,395.988,Los Angeles,California,2969.91,High Value
+CA-2016-152730,Eugene Moren,Office Supplies,Paper,629.1,6,301.968,Superior,Wisconsin,3774.6,High Value
+CA-2014-120670,Julie Kriz,Technology,Accessories,799.92,10,239.976,Fort Lauderdale,Florida,7999.2,High Value
+CA-2015-162782,Pierre Wener,Office Supplies,Binders,2541.98,2,1270.99,Columbia,Maryland,5083.96,High Value
+CA-2017-159282,Gary Hansen,Technology,Machines,599.985,5,-479.988,Yuma,Arizona,2999.93,High Value
+CA-2014-158281,Andy Gerbode,Technology,Machines,559.71,3,-121.2705,Houston,Texas,1679.13,High Value
+CA-2017-109183,Lena Radford,Technology,Machines,649.0,2,-272.58,Nashville,Tennessee,1298.0,High Value
+CA-2014-137274,Mike Gockenbach,Furniture,Tables,890.841,3,-152.7156,Plano,Texas,2672.52,High Value
+CA-2017-100097,Michael Nguyen,Technology,Phones,979.95,5,264.5865,New York City,New York,4899.75,High Value
+US-2014-131275,Sample Company A,Technology,Machines,1279.968,4,415.9896,Burbank,California,5119.87,High Value
+US-2014-131275,Sample Company A,Office Supplies,Storage,1856.19,7,334.1142,Burbank,California,12993.33,High Value
+CA-2015-113152,Jim Karlsson,Technology,Accessories,843.9,2,371.316,New York City,New York,1687.8,High Value
+CA-2017-168389,Darrin Van Huff,Furniture,Tables,721.875,6,-420.0,Jacksonville,Florida,4331.25,High Value
+US-2014-115189,Alex Russell,Furniture,Tables,523.764,3,-192.0468,Philadelphia,Pennsylvania,1571.29,High Value
+CA-2016-105732,Alejandro Grove,Furniture,Furnishings,1336.44,14,387.5676,Omaha,Nebraska,18710.16,High Value
+CA-2016-110975,Darren Budd,Furniture,Chairs,866.646,3,173.3292,New York City,New York,2599.94,High Value
+CA-2014-141649,Dario Medina,Office Supplies,Appliances,795.408,6,59.6556,Fairfield,Ohio,4772.45,High Value
+CA-2015-100146,Claudia Bergmann,Furniture,Bookcases,509.9575,5,41.9965,Camarillo,California,2549.79,High Value
+CA-2015-100146,Claudia Bergmann,Furniture,Chairs,722.352,3,81.2646,Camarillo,California,2167.06,High Value
+US-2016-114013,Stewart Carmichael,Technology,Phones,539.91,3,-116.9805,Philadelphia,Pennsylvania,1619.73,High Value
+US-2016-114013,Stewart Carmichael,Office Supplies,Storage,552.56,5,-138.14,Philadelphia,Pennsylvania,2762.8,High Value
+CA-2017-105669,Sanjit Jacobs,Technology,Phones,1415.76,6,88.485,Houston,Texas,8494.56,High Value
+CA-2016-137743,Katherine Hughes,Office Supplies,Storage,1036.624,2,51.8312,Chicago,Illinois,2073.25,High Value
+CA-2015-137974,Lauren Leatherbury,Technology,Phones,569.64,2,148.1064,Waynesboro,Virginia,1139.28,High Value
+CA-2015-137974,Lauren Leatherbury,Furniture,Furnishings,1196.86,7,119.686,Waynesboro,Virginia,8378.02,High Value
+CA-2015-137974,Lauren Leatherbury,Furniture,Bookcases,523.26,9,125.5824,Waynesboro,Virginia,4709.34,High Value
+US-2015-136987,Andy Reiter,Technology,Copiers,639.968,4,215.9892,Los Angeles,California,2559.87,High Value
+CA-2015-138485,Nora Paige,Technology,Accessories,538.92,9,80.838,Seattle,Washington,4850.28,High Value
+CA-2016-139997,Eugene Moren,Technology,Copiers,1499.95,5,449.985,Lehi,Utah,7499.75,High Value
+CA-2014-167199,Maria Etezadi,Furniture,Chairs,2573.82,9,746.4078,Henderson,Kentucky,23164.38,High Value
+CA-2014-167199,Maria Etezadi,Office Supplies,Binders,609.98,2,274.491,Henderson,Kentucky,1219.96,High Value
+CA-2014-167199,Maria Etezadi,Technology,Phones,755.96,4,204.1092,Henderson,Kentucky,3023.84,High Value
+US-2015-134558,Peter McVee,Technology,Accessories,2249.91,9,517.4793,Dover,New Hampshire,20249.19,High Value
+US-2015-134558,Peter McVee,Furniture,Tables,1053.164,4,-105.3164,Dover,New Hampshire,4212.66,High Value
+US-2017-160836,Cindy Chapman,Furniture,Tables,512.19,5,-65.853,Houston,Texas,2560.95,High Value
+US-2017-161935,John Lee,Technology,Phones,1889.946,9,-377.9892,Columbus,Ohio,17009.51,High Value
+US-2017-167920,John Lee,Technology,Copiers,1399.98,2,629.991,Richmond,Kentucky,2799.96,High Value
+CA-2014-125731,Clay Ludtke,Furniture,Chairs,1487.04,5,148.704,Gresham,Oregon,7435.2,High Value
+US-2017-106145,Ruben Ausman,Office Supplies,Binders,931.176,3,314.2719,San Francisco,California,2793.53,High Value
+US-2017-112347,Bill Stewart,Furniture,Chairs,906.68,5,68.001,Denver,Colorado,4533.4,High Value
+CA-2014-103492,Craig Molinari,Technology,Phones,719.952,6,71.9952,Huntsville,Texas,4319.71,High Value
+CA-2014-103492,Craig Molinari,Technology,Phones,755.944,7,66.1451,Huntsville,Texas,5291.61,High Value
+CA-2014-140396,Katharine Harms,Technology,Phones,833.94,6,216.8244,New York City,New York,5003.64,High Value
+US-2014-137155,Daniel Lacy,Office Supplies,Appliances,533.94,3,154.8426,Long Beach,New York,1601.82,High Value
+CA-2014-100916,Frank Hawley,Furniture,Tables,591.32,4,112.3508,Newport News,Virginia,2365.28,High Value
+CA-2016-138597,Parhena Norris,Furniture,Chairs,563.94,3,112.788,Omaha,Nebraska,1691.82,High Value
+CA-2015-123113,Annie Thurman,Office Supplies,Appliances,2625.12,8,735.0336,Morristown,New Jersey,21000.96,High Value
+CA-2014-163223,Kristen Hastings,Technology,Phones,3499.93,7,909.9818,Springfield,Virginia,24499.51,High Value
+CA-2016-158778,Dean Braden,Furniture,Chairs,887.271,3,-63.3765,Philadelphia,Pennsylvania,2661.81,High Value
+CA-2016-101791,Brian Stugart,Office Supplies,Storage,1297.368,9,97.3026,Chicago,Illinois,11676.31,High Value
+CA-2016-144309,Chris McAfee,Office Supplies,Binders,679.96,5,220.987,Watertown,New York,3399.8,High Value
+US-2014-144078,Richard Bierner,Technology,Phones,539.92,5,47.243,Los Angeles,California,2699.6,High Value
+US-2014-144078,Richard Bierner,Furniture,Chairs,725.344,4,54.4008,Los Angeles,California,2901.38,High Value
+CA-2015-136805,Nathan Mautz,Office Supplies,Appliances,850.5,5,245.7,Detroit,Michigan,4252.5,High Value
+US-2017-158526,Katherine Hughes,Furniture,Chairs,1207.84,8,314.0384,Louisville,Kentucky,9662.72,High Value
+US-2016-157490,Laurel Beltran,Technology,Machines,703.71,6,-938.28,Pueblo,Colorado,4222.26,High Value
+CA-2015-161452,Carol Adams,Furniture,Chairs,892.224,3,89.2224,Los Angeles,California,2676.67,High Value
+US-2014-115196,Daniel Lacy,Technology,Machines,1299.99,2,-571.9956,Greenville,North Carolina,2599.98,High Value
+CA-2016-138968,Fred Chung,Furniture,Chairs,1352.032,4,84.502,San Francisco,California,5408.13,High Value
+CA-2015-101889,David Bremer,Furniture,Tables,1548.99,9,-464.697,Marion,Ohio,13940.91,High Value
+US-2016-140158,Daniel Raglin,Technology,Copiers,5399.91,9,2591.9568,Providence,Rhode Island,48599.19,High Value
+CA-2014-133592,Katherine Murray,Technology,Accessories,1687.8,4,742.632,Providence,Rhode Island,6751.2,High Value
+CA-2014-133592,Katherine Murray,Furniture,Chairs,605.88,6,151.47,Providence,Rhode Island,3635.28,High Value
+CA-2015-120782,Shirley Daniels,Office Supplies,Binders,3812.97,3,1906.485,Midland,Michigan,11438.91,High Value
+CA-2015-116876,Ted Trevino,Technology,Phones,625.99,1,187.797,Rochester,New York,625.99,Regular
+CA-2016-169838,Brenda Bowman,Furniture,Tables,1568.61,9,329.4081,Jackson,Michigan,14117.49,High Value
+US-2017-128951,Ricardo Sperren,Furniture,Tables,872.94,3,157.1292,Suffolk,Virginia,2618.82,High Value
+CA-2017-151799,Ben Ferrer,Technology,Copiers,1199.98,2,467.9922,Lawrence,Massachusetts,2399.96,High Value
+CA-2017-151799,Ben Ferrer,Furniture,Tables,526.582,2,-52.6582,Lawrence,Massachusetts,1053.16,High Value
+CA-2016-133613,Christine Phan,Technology,Phones,566.97,3,153.0819,Waterbury,Connecticut,1700.91,High Value
+US-2017-118941,Brenda Bowman,Furniture,Chairs,1779.9,5,373.779,Columbia,Maryland,8899.5,High Value
+CA-2016-155978,Thomas Seio,Technology,Phones,1039.728,2,90.9762,Riverside,California,2079.46,High Value
+CA-2016-108196,Cindy Stewart,Technology,Machines,4499.985,5,-6599.978,Lancaster,Ohio,22499.93,High Value
+CA-2016-162236,Elpida Rittenbach,Furniture,Tables,876.3,10,-292.1,Charlotte,North Carolina,8763.0,High Value
+CA-2015-102260,Sanjit Jacobs,Office Supplies,Storage,720.064,4,-63.0056,Franklin,Tennessee,2880.26,High Value
+CA-2016-134334,Dave Kipp,Furniture,Tables,550.431,3,-47.1798,Clinton,Maryland,1651.29,High Value
+US-2017-109316,Maureen Gastineau,Furniture,Bookcases,1497.666,2,140.9568,Los Angeles,California,2995.33,High Value
+CA-2016-138478,Dennis Pardue,Office Supplies,Binders,4535.976,3,1644.2913,North Las Vegas,Nevada,13607.93,High Value
+CA-2017-152436,Carl Weiss,Office Supplies,Storage,592.74,6,160.0398,Cranston,Rhode Island,3556.44,High Value
+CA-2017-117114,Craig Yedwab,Technology,Phones,508.768,4,38.1576,Chicago,Illinois,2035.07,High Value
+US-2014-137869,Christina VanderZanden,Furniture,Tables,1184.72,4,106.6248,Des Moines,Iowa,4738.88,High Value
+CA-2015-125976,Jamie Kunitz,Technology,Phones,1871.88,12,561.564,Arlington,Virginia,22462.56,High Value
+CA-2016-101672,Daniel Byrd,Furniture,Chairs,915.136,4,102.9528,Lake Forest,California,3660.54,High Value
+CA-2017-128363,Dan Campbell,Office Supplies,Binders,1614.582,6,-1237.8462,Memphis,Tennessee,9687.49,High Value
+CA-2016-112585,Rob Williams,Office Supplies,Appliances,715.64,2,178.91,San Francisco,California,1431.28,High Value
+CA-2017-165323,Steven Roelle,Technology,Machines,3404.5,5,1668.205,New York City,New York,17022.5,High Value
+CA-2017-120404,Katharine Harms,Technology,Phones,569.99,1,170.997,New York City,New York,569.99,Regular
+CA-2017-166093,Rick Wilson,Office Supplies,Appliances,2518.29,9,654.7554,Brentwood,California,22664.61,High Value
+CA-2017-166093,Rick Wilson,Office Supplies,Storage,540.57,3,140.5482,Brentwood,California,1621.71,High Value
+CA-2015-145814,Katherine Ducich,Technology,Phones,861.76,4,249.9104,New York City,New York,3447.04,High Value
+US-2015-126753,Sung Pak,Technology,Phones,519.792,4,-112.6216,Philadelphia,Pennsylvania,2079.17,High Value
+CA-2014-166051,Jim Karlsson,Technology,Phones,659.97,3,197.991,Jackson,Mississippi,1979.91,High Value
+US-2017-105998,Clay Rozendal,Furniture,Tables,1673.184,12,20.9148,San Diego,California,20078.21,High Value
+CA-2015-110863,Anna Andreadi,Furniture,Chairs,1323.9,5,383.931,Oklahoma City,Oklahoma,6619.5,High Value
+CA-2017-120168,Trudy Brown,Office Supplies,Binders,663.92,5,207.475,New York City,New York,3319.6,High Value
+CA-2014-129189,Harry Marie,Furniture,Chairs,657.93,5,-93.99,Dallas,Texas,3289.65,High Value
+CA-2015-132465,Don Miller,Office Supplies,Storage,772.68,4,108.1752,New York City,New York,3090.72,High Value
+CA-2017-121489,Candace McMahon,Office Supplies,Storage,572.58,6,34.3548,Seattle,Washington,3435.48,High Value
+CA-2016-168543,Dean Katz,Office Supplies,Appliances,706.86,7,197.9208,New York City,New York,4948.02,High Value
+CA-2015-121188,Cassandra Brandow,Office Supplies,Storage,892.35,5,267.705,Los Angeles,California,4461.75,High Value
+CA-2015-121188,Cassandra Brandow,Office Supplies,Storage,728.82,9,29.1528,Los Angeles,California,6559.38,High Value
+CA-2015-150714,Kristen Hastings,Office Supplies,Storage,718.64,10,-161.694,Springfield,Oregon,7186.4,High Value
+CA-2016-169663,Rick Huthwaite,Technology,Machines,3357.6,3,377.73,Los Angeles,California,10072.8,High Value
+CA-2015-149846,Sarah Brown,Technology,Machines,2973.32,7,334.4985,Los Angeles,California,20813.24,High Value
+CA-2015-149846,Sarah Brown,Technology,Phones,775.728,6,58.1796,Los Angeles,California,4654.37,High Value
+US-2017-106551,Eric Barreto,Furniture,Chairs,526.344,4,-75.192,Chicago,Illinois,2105.38,High Value
+CA-2014-138128,Frank Preis,Technology,Copiers,1079.976,4,125.9972,Philadelphia,Pennsylvania,4319.9,High Value
+CA-2015-137064,Trudy Schmidt,Office Supplies,Storage,670.752,3,-125.766,Houston,Texas,2012.26,High Value
+CA-2014-127866,Jonathan Doherty,Office Supplies,Storage,535.41,3,160.623,Riverside,California,1606.23,High Value
+CA-2016-118073,Cindy Schnelling,Furniture,Tables,562.2925,7,-255.5875,Lakeland,Florida,3936.05,High Value
+CA-2016-100993,Annie Zypern,Furniture,Tables,557.728,4,6.9716,San Diego,California,2230.91,High Value
+CA-2017-140151,Raymond Buch,Technology,Copiers,13999.96,4,6719.9808,Seattle,Washington,55999.84,High Value
+CA-2016-103464,Patrick Gardner,Technology,Accessories,595.0,5,95.2,San Diego,California,2975.0,High Value
+CA-2015-168207,Liz Thompson,Furniture,Bookcases,512.499,3,-30.147,San Diego,California,1537.5,High Value
+CA-2016-144148,Anna H�berlin,Furniture,Tables,863.128,7,-32.3673,San Francisco,California,6041.9,High Value
+CA-2017-107174,Adam Bellavance,Furniture,Tables,2036.86,7,366.6348,Seattle,Washington,14258.02,High Value
+CA-2016-166429,Toby Gnade,Technology,Copiers,999.98,2,449.991,Des Moines,Washington,1999.96,High Value
+CA-2015-119879,Shahid Shariari,Furniture,Tables,1252.704,8,-480.2032,Philadelphia,Pennsylvania,10021.63,High Value
+CA-2015-114811,Keith Dawkins,Technology,Phones,549.98,2,142.9948,New York City,New York,1099.96,High Value
+CA-2015-114811,Keith Dawkins,Technology,Machines,4643.8,4,2229.024,New York City,New York,18575.2,High Value
+CA-2015-114811,Keith Dawkins,Furniture,Chairs,577.764,2,115.5528,New York City,New York,1155.53,High Value
+CA-2015-141565,Barry Gonzalez,Office Supplies,Binders,1369.764,6,-913.176,Nashville,Tennessee,8218.58,High Value
+CA-2016-162355,Philip Fox,Furniture,Bookcases,1266.86,7,291.3778,Sandy Springs,Georgia,8868.02,High Value
+CA-2017-102204,Caroline Jumper,Furniture,Tables,933.262,4,-458.1468,Jacksonville,Florida,3733.05,High Value
+CA-2017-102204,Caroline Jumper,Furniture,Chairs,2803.92,5,0.0,Jacksonville,Florida,14019.6,High Value
+CA-2014-109897,Ben Wallace,Technology,Phones,806.336,8,50.396,San Francisco,California,6450.69,High Value
+CA-2016-133816,Christopher Schild,Technology,Phones,743.988,2,-123.998,Philadelphia,Pennsylvania,1487.98,High Value
+CA-2017-121790,Liz Preis,Technology,Phones,2003.168,4,250.396,Aurora,Illinois,8012.67,High Value
+CA-2016-169670,Joe Elijah,Furniture,Chairs,2563.056,8,313.2624,New York City,New York,20504.45,High Value
+CA-2017-164112,Neil Ducich,Office Supplies,Storage,1085.42,7,282.2092,Mount Vernon,New York,7597.94,High Value
+CA-2017-146192,Bruce Degenhardt,Office Supplies,Storage,675.06,3,87.7578,Columbus,Georgia,2025.18,High Value
+CA-2015-154284,Sam Zeldin,Technology,Machines,600.53,2,137.264,Saint Charles,Illinois,1201.06,High Value
+CA-2015-154284,Sam Zeldin,Technology,Accessories,637.44,8,135.456,Saint Charles,Illinois,5099.52,High Value
+US-2017-167318,George Zrebassa,Technology,Accessories,1649.95,5,659.98,Los Angeles,California,8249.75,High Value
+US-2017-105935,Bradley Drucker,Technology,Phones,2939.93,7,764.3818,Columbus,Georgia,20579.51,High Value
+CA-2014-161508,Paul Van Hugh,Furniture,Chairs,512.358,3,-14.6388,League City,Texas,1537.07,High Value
+CA-2017-147207,Trudy Schmidt,Furniture,Tables,913.43,5,-169.637,El Paso,Texas,4567.15,High Value
+CA-2017-137631,Janet Lee,Technology,Phones,751.984,2,84.5982,Kissimmee,Florida,1503.97,High Value
+CA-2017-157273,Sam Zeldin,Technology,Phones,604.768,4,60.4768,Seattle,Washington,2419.07,High Value
+CA-2016-118745,Seth Vernon,Furniture,Tables,902.712,3,33.8517,Los Angeles,California,2708.14,High Value
+CA-2016-142594,Eva Jacobs,Office Supplies,Appliances,901.95,3,297.6435,Franklin,Massachusetts,2705.85,High Value
+CA-2016-130820,Odella Nelson,Furniture,Tables,630.024,4,-199.5076,Burlington,North Carolina,2520.1,High Value
+CA-2017-132290,Maribeth Dona,Furniture,Tables,933.408,4,-173.3472,Dallas,Texas,3733.63,High Value
+CA-2017-150091,Nora Paige,Furniture,Bookcases,2154.9,5,129.294,Lakewood,New Jersey,10774.5,High Value
+CA-2017-125451,Adam Hart,Furniture,Tables,637.896,3,-127.5792,Cranston,Rhode Island,1913.69,High Value
+CA-2014-131387,Arianne Irving,Technology,Phones,1679.96,5,125.997,San Francisco,California,8399.8,High Value
+CA-2016-125087,Thea Hudgings,Office Supplies,Storage,1554.936,3,77.7468,Houston,Texas,4664.81,High Value
+US-2016-164196,Alejandro Savely,Furniture,Tables,2678.94,6,241.1046,Noblesville,Indiana,16073.64,High Value
+CA-2015-145758,Barry Franz�sisch,Technology,Machines,1035.8,4,269.308,New York City,New York,4143.2,High Value
+CA-2016-158841,Sanjit Engle,Technology,Machines,8749.95,5,2799.984,Arlington,Virginia,43749.75,High Value
+CA-2014-140473,Mark Cousins,Technology,Copiers,719.976,3,134.9955,Chicago,Illinois,2159.93,High Value
+CA-2016-102092,Paul MacIntyre,Furniture,Tables,1056.86,7,158.529,Springfield,Virginia,7398.02,High Value
+CA-2016-123540,Denny Joy,Furniture,Chairs,1454.9,5,378.274,Milwaukee,Wisconsin,7274.5,High Value
+CA-2016-162390,Dave Poirier,Office Supplies,Binders,968.744,7,314.8418,Hempstead,New York,6781.21,High Value
+CA-2014-121629,Brian Thompson,Technology,Machines,998.85,5,-199.77,Houston,Texas,4994.25,High Value
+CA-2017-146164,Charlotte Melton,Furniture,Tables,607.52,2,97.2032,Rochester,Minnesota,1215.04,High Value
+CA-2017-162015,Karen Bern,Technology,Accessories,1287.45,5,244.6155,Los Angeles,California,6437.25,High Value
+CA-2016-107783,Olvera Toch,Office Supplies,Binders,1369.764,6,-913.176,Bethlehem,Pennsylvania,8218.58,High Value
+CA-2014-160094,Justin MacKendrick,Office Supplies,Storage,826.0,5,214.76,Louisville,Kentucky,4130.0,High Value
+US-2017-148551,David Bremer,Office Supplies,Binders,760.98,5,-1141.47,Dallas,Texas,3804.9,High Value
+CA-2016-164574,Ritsa Hightower,Office Supplies,Storage,704.76,5,26.4285,Charlotte,North Carolina,3523.8,High Value
+CA-2017-124765,Henia Zydlo,Furniture,Bookcases,723.92,5,-81.441,Fort Lauderdale,Florida,3619.6,High Value
+CA-2015-131856,James Galang,Technology,Phones,619.152,6,69.6546,Houston,Texas,3714.91,High Value
+CA-2017-163265,Joy Smith,Furniture,Chairs,600.558,3,-8.5794,Decatur,Illinois,1801.67,High Value
+CA-2017-141705,Patrick O'Brill,Furniture,Tables,517.405,5,-81.3065,Mansfield,Texas,2587.02,High Value
+CA-2016-143805,Jonathan Doherty,Office Supplies,Appliances,2104.55,7,694.5015,Richmond,Virginia,14731.85,High Value
+CA-2017-119284,Thomas Seio,Technology,Phones,2239.936,8,223.9936,Nashville,Tennessee,17919.49,High Value
+CA-2014-105648,Eva Jacobs,Furniture,Tables,626.352,3,-23.4882,San Diego,California,1879.06,High Value
+CA-2017-116988,Pauline Webber,Technology,Accessories,1287.45,5,244.6155,Seattle,Washington,6437.25,High Value
+CA-2016-168774,Roy Phan,Office Supplies,Storage,535.41,3,160.623,Woodbury,Minnesota,1606.23,High Value
+US-2015-163825,Lena Creighton,Office Supplies,Binders,3050.376,3,1143.891,New York City,New York,9151.13,High Value
+CA-2016-159891,Ben Ferrer,Office Supplies,Binders,1270.99,1,635.495,Atlanta,Georgia,1270.99,High Value
+CA-2017-115882,Dorothy Badders,Office Supplies,Appliances,942.784,4,94.2784,Raleigh,North Carolina,3771.14,High Value
+CA-2016-102813,Erin Ashbrook,Furniture,Chairs,528.43,5,0.0,Huntsville,Texas,2642.15,High Value
+CA-2015-133585,Craig Molinari,Furniture,Bookcases,1227.9984,6,-36.1176,Houston,Texas,7367.99,High Value
+CA-2016-116911,Justin Deggeller,Furniture,Tables,1128.39,3,259.5297,Twin Falls,Idaho,3385.17,High Value
+CA-2017-126914,Joe Elijah,Furniture,Chairs,698.352,3,52.3764,Monroe,North Carolina,2095.06,High Value
+CA-2017-162075,Thomas Thornton,Technology,Phones,537.544,7,47.0351,Houston,Texas,3762.81,High Value
+CA-2014-162992,Bart Pistole,Technology,Phones,583.8,5,72.975,Los Angeles,California,2919.0,High Value
+US-2016-150140,Valerie Mitchum,Technology,Phones,1294.75,5,336.635,Burlington,Vermont,6473.75,High Value
+CA-2014-116666,Kean Thornton,Technology,Copiers,1799.97,5,239.996,Philadelphia,Pennsylvania,8999.85,High Value
+CA-2017-100622,Dave Kipp,Technology,Copiers,959.984,2,311.9948,Orlando,Florida,1919.97,High Value
+CA-2015-153423,Shaun Weien,Office Supplies,Binders,1217.568,2,456.588,Rochester,New York,2435.14,High Value
+US-2015-115343,Frank Olsen,Technology,Accessories,617.976,3,-7.7247,Philadelphia,Pennsylvania,1853.93,High Value
+CA-2017-135909,Jane Waco,Office Supplies,Binders,5083.96,5,1906.485,Sacramento,California,25419.8,High Value
+CA-2016-158260,Cindy Chapman,Technology,Machines,686.4,2,77.22,San Diego,California,1372.8,High Value
+CA-2017-103968,Max Ludwig,Furniture,Furnishings,629.64,9,107.0388,Stockton,California,5666.76,High Value
+CA-2016-147256,Frank Carlisle,Office Supplies,Appliances,1927.59,7,751.7601,Columbia,Missouri,13493.13,High Value
+CA-2015-111038,Lindsay Castell,Furniture,Chairs,2676.672,9,267.6672,San Diego,California,24090.05,High Value
+US-2016-144057,Cynthia Voltz,Office Supplies,Storage,856.656,6,107.082,Austin,Texas,5139.94,High Value
+CA-2016-168032,David Flashing,Technology,Phones,1439.968,4,143.9968,Rockford,Illinois,5759.87,High Value
+CA-2016-168032,David Flashing,Furniture,Tables,626.1,3,-538.446,Rockford,Illinois,1878.3,High Value
+US-2015-168704,Frank Preis,Furniture,Tables,609.98,4,-113.282,Huntsville,Texas,2439.92,High Value
+CA-2017-130036,Ben Peterman,Technology,Accessories,1119.888,14,209.979,Philadelphia,Pennsylvania,15678.43,High Value
+CA-2017-150910,Jack Lebron,Furniture,Tables,934.956,6,-249.3216,Jackson,Tennessee,5609.74,High Value
+CA-2017-150266,Rose O'Brian,Furniture,Chairs,853.93,5,-24.398,Houston,Texas,4269.65,High Value
+CA-2016-157280,Liz Willingham,Furniture,Furnishings,756.8,5,75.68,Virginia Beach,Virginia,3784.0,High Value
+US-2015-128587,Harry Marie,Technology,Copiers,4899.93,7,2302.9671,Springfield,Missouri,34299.51,High Value
+CA-2017-159100,Victoria Pisteka,Furniture,Tables,1875.258,7,-968.8833,Columbia,Tennessee,13126.81,High Value
+CA-2014-152268,Sanjit Chand,Office Supplies,Binders,1793.98,2,843.1706,Fayetteville,Arkansas,3587.96,High Value
+CA-2016-117121,Adrian Barton,Office Supplies,Binders,9892.74,13,4946.37,Detroit,Michigan,128605.62,High Value
+CA-2015-160227,Emily Ducich,Furniture,Chairs,2621.322,11,553.3902,New York City,New York,28834.54,High Value
+CA-2016-132304,Anthony Rawles,Furniture,Tables,1115.17,7,334.551,Seattle,Washington,7806.19,High Value
+CA-2014-136336,Dorothy Badders,Office Supplies,Storage,828.84,6,0.0,Henderson,Kentucky,4973.04,High Value
+CA-2017-152933,Matthew Grinstein,Technology,Accessories,791.88,3,128.6805,Dallas,Texas,2375.64,High Value
+CA-2016-135461,Erica Bern,Technology,Phones,623.96,5,38.9975,Los Angeles,California,3119.8,High Value
+CA-2017-153045,Neola Schneider,Furniture,Chairs,887.271,3,-63.3765,Philadelphia,Pennsylvania,2661.81,High Value
+CA-2015-157805,Rick Huthwaite,Technology,Phones,555.96,5,41.697,San Diego,California,2779.8,High Value
+US-2017-166688,Rick Duston,Technology,Phones,1123.128,9,70.1955,Las Vegas,Nevada,10108.15,High Value
+US-2016-165505,Claudia Bergmann,Office Supplies,Storage,1564.29,13,406.7154,Burlington,Vermont,20335.77,High Value
+CA-2016-160108,Arthur Gainer,Furniture,Chairs,680.01,3,176.8026,Eau Claire,Wisconsin,2040.03,High Value
+CA-2016-100300,Max Jones,Technology,Machines,4476.8,4,503.64,San Diego,California,17907.2,High Value
+US-2016-155768,Laurel Beltran,Office Supplies,Storage,1112.94,3,222.588,Oxnard,California,3338.82,High Value
+CA-2017-156776,Jeremy Lonsdale,Technology,Phones,707.88,3,44.2425,Westminster,California,2123.64,High Value
+CA-2017-156776,Jeremy Lonsdale,Office Supplies,Appliances,1473.1,5,412.468,Westminster,California,7365.5,High Value
+US-2015-130512,Sean Miller,Office Supplies,Storage,663.072,6,-165.768,Allentown,Pennsylvania,3978.43,High Value
+CA-2014-103310,Greg Matthias,Technology,Phones,1432.0,5,125.3,San Jose,California,7160.0,High Value
+CA-2017-103212,Michelle Huthwaite,Furniture,Tables,1504.52,4,346.0396,Lafayette,Louisiana,6018.08,High Value
+CA-2014-148383,Resi P�lking,Office Supplies,Binders,946.764,6,-694.2936,Phoenix,Arizona,5680.58,High Value
+CA-2016-126732,Lena Radford,Technology,Phones,1091.168,4,68.198,Los Angeles,California,4364.67,High Value
+CA-2016-126732,Lena Radford,Furniture,Tables,568.728,3,28.4364,Los Angeles,California,1706.18,High Value
+CA-2016-127761,Scott Williamson,Technology,Phones,881.93,7,220.4825,New York City,New York,6173.51,High Value
+US-2017-102183,Pete Kriz,Office Supplies,Binders,4305.552,6,1453.1238,New York City,New York,25833.31,High Value
+CA-2016-100510,Harry Marie,Technology,Phones,631.96,4,303.3408,New York City,New York,2527.84,High Value
+CA-2017-146983,Alan Hwang,Office Supplies,Binders,1577.94,3,757.4112,Henderson,Kentucky,4733.82,High Value
+US-2017-165456,Trudy Brown,Furniture,Chairs,1079.316,6,-15.4188,Philadelphia,Pennsylvania,6475.9,High Value
+CA-2016-161907,Justin Hirsh,Office Supplies,Supplies,769.184,4,-163.4516,Philadelphia,Pennsylvania,3076.74,High Value
+CA-2017-121853,Duane Benoit,Furniture,Chairs,594.816,2,59.4816,Los Angeles,California,1189.63,High Value
+CA-2016-108056,Erin Smith,Technology,Phones,859.2,3,75.18,Springfield,Oregon,2577.6,High Value
+CA-2017-109085,Christine Kargatis,Furniture,Chairs,899.43,5,-12.849,Troy,Ohio,4497.15,High Value
+CA-2016-114860,Duane Noonan,Furniture,Furnishings,842.72,8,202.2528,Moreno Valley,California,6741.76,High Value
+CA-2017-148411,Rose O'Brian,Furniture,Chairs,520.464,2,-14.8704,Chicago,Illinois,1040.93,High Value
+CA-2014-108147,Rick Duston,Office Supplies,Storage,1676.88,6,83.844,Long Beach,New York,10061.28,High Value
+US-2017-127292,Raymond Messe,Office Supplies,Appliances,542.94,3,152.0232,Burlington,Vermont,1628.82,High Value
+CA-2015-130848,Deirdre Greer,Furniture,Chairs,582.336,8,-29.1168,Denver,Colorado,4658.69,High Value
+CA-2014-125997,Mitch Webber,Technology,Phones,629.95,5,157.4875,New York City,New York,3149.75,High Value
+CA-2014-125997,Mitch Webber,Furniture,Chairs,631.782,2,140.396,New York City,New York,1263.56,High Value
+CA-2014-125997,Mitch Webber,Furniture,Bookcases,801.568,2,-10.0196,New York City,New York,1603.14,High Value
+CA-2014-125997,Mitch Webber,Technology,Phones,1349.91,9,661.4559,New York City,New York,12149.19,High Value
+CA-2016-105459,Nora Preis,Office Supplies,Storage,1591.02,6,286.3836,New York City,New York,9546.12,High Value
+CA-2014-152618,Rick Bensley,Technology,Machines,574.91,2,156.047,Chicago,Illinois,1149.82,High Value
+CA-2017-162789,Logan Currie,Technology,Accessories,1071.0,9,171.36,New York City,New York,9639.0,High Value
+CA-2015-164777,Sean Christensen,Furniture,Chairs,2803.92,5,0.0,Los Angeles,California,14019.6,High Value
+CA-2014-145254,Nick Crebassa,Technology,Phones,604.752,6,60.4752,San Francisco,California,3628.51,High Value
+CA-2014-116246,Luke Weiss,Furniture,Chairs,3785.292,6,420.588,New York City,New York,22711.75,High Value
+CA-2014-152100,Victoria Wilson,Furniture,Chairs,1212.96,8,-69.312,Huntsville,Texas,9703.68,High Value
+CA-2015-166219,Ben Peterman,Technology,Phones,1099.96,5,82.497,Dallas,Texas,5499.8,High Value
+US-2017-109610,Brendan Sweed,Furniture,Chairs,701.96,2,168.4704,Louisville,Kentucky,1403.92,High Value
+CA-2016-164770,Muhammed Yedwab,Furniture,Bookcases,781.864,10,-137.976,Houston,Texas,7818.64,High Value
+CA-2017-130505,Natalie Fritzler,Furniture,Tables,673.344,3,-76.9536,Wheeling,West Virginia,2020.03,High Value
+CA-2015-156566,Eric Murdock,Technology,Phones,572.8,2,50.12,Portland,Oregon,1145.6,High Value
+CA-2017-111738,Christopher Martinez,Office Supplies,Binders,2022.272,8,682.5168,San Francisco,California,16178.18,High Value
+CA-2016-105207,Bill Overfelt,Furniture,Tables,1592.85,7,350.427,Broken Arrow,Oklahoma,11149.95,High Value
+CA-2016-113607,Pauline Webber,Technology,Phones,1091.93,7,272.9825,New York City,New York,7643.51,High Value
+CA-2014-149104,Ruben Dartt,Office Supplies,Storage,689.82,6,20.6946,Dearborn Heights,Michigan,4138.92,High Value
+CA-2016-125220,Bobby Elias,Technology,Accessories,1649.75,5,544.4175,Appleton,Wisconsin,8248.75,High Value
+CA-2015-147690,Sam Craven,Office Supplies,Storage,577.584,6,43.3188,Philadelphia,Pennsylvania,3465.5,High Value
+CA-2014-130428,Trudy Glocke,Furniture,Chairs,1125.488,7,98.4802,Tampa,Florida,7878.42,High Value
+CA-2017-152975,Roger Barcio,Technology,Phones,1079.85,3,323.955,New York City,New York,3239.55,High Value
+CA-2017-152975,Roger Barcio,Furniture,Chairs,589.41,5,-6.549,New York City,New York,2947.05,High Value
+CA-2014-128524,Mary Zewe,Office Supplies,Binders,2033.584,2,762.594,Seattle,Washington,4067.17,High Value
+CA-2017-160633,Bill Stewart,Technology,Copiers,899.982,3,74.9985,Bowling Green,Ohio,2699.95,High Value
+CA-2014-151330,Toby Carlisle,Furniture,Chairs,1628.82,9,260.6112,Everett,Massachusetts,14659.38,High Value
+CA-2014-124702,Maya Herman,Furniture,Tables,730.2,4,94.926,Seattle,Washington,2920.8,High Value
+CA-2015-116638,Joseph Holt,Furniture,Tables,4297.644,13,-1862.3124,Concord,North Carolina,55869.37,High Value
+CA-2016-107104,Maribeth Schnelling,Furniture,Bookcases,3406.664,8,160.3136,Los Angeles,California,27253.31,High Value
+CA-2014-156160,Adam Shillingsburg,Furniture,Chairs,579.528,4,83.7096,New York City,New York,2318.11,High Value
+CA-2016-160717,Maria Etezadi,Technology,Phones,3023.928,9,226.7946,Santa Barbara,California,27215.35,High Value
+CA-2016-114867,Frank Merwin,Technology,Phones,1499.97,5,-374.9925,Philadelphia,Pennsylvania,7499.85,High Value
+CA-2015-130113,Aaron Hawkins,Technology,Phones,668.16,9,75.168,San Francisco,California,6013.44,High Value
+US-2017-135986,Paul Gonzalez,Technology,Phones,503.96,4,125.99,Richmond,Virginia,2015.84,High Value
+CA-2015-130183,Patrick O'Brill,Furniture,Bookcases,613.9992,3,-18.0588,Houston,Texas,1842.0,High Value
+CA-2017-147032,Laurel Beltran,Office Supplies,Binders,849.95,5,390.977,Wilmington,Delaware,4249.75,High Value
+CA-2014-114251,Maribeth Dona,Office Supplies,Storage,1080.096,6,-94.5084,Philadelphia,Pennsylvania,6480.58,High Value
+CA-2017-167395,Kunst Miller,Technology,Phones,979.95,5,284.1855,Lowell,Massachusetts,4899.75,High Value
+CA-2014-111962,Evan Bailliet,Office Supplies,Storage,807.75,5,153.4725,Seattle,Washington,4038.75,High Value
+CA-2014-114321,Nick Crebassa,Furniture,Chairs,500.24,13,145.0696,Hampton,Virginia,6503.12,High Value
+CA-2014-114321,Nick Crebassa,Office Supplies,Binders,896.99,1,421.5853,Hampton,Virginia,896.99,Regular
+CA-2015-117086,Quincy Jones,Furniture,Bookcases,4404.9,5,1013.127,Burlington,Vermont,22024.5,High Value
+US-2014-140914,Brosina Hoffman,Furniture,Chairs,797.944,4,-56.996,Chicago,Illinois,3191.78,High Value
+CA-2016-146913,Sylvia Foulston,Furniture,Chairs,1403.92,5,70.196,San Francisco,California,7019.6,High Value
+CA-2014-169019,Luke Foster,Office Supplies,Binders,2177.584,8,-3701.8928,San Antonio,Texas,17420.67,High Value
+CA-2016-153178,Clay Ludtke,Office Supplies,Binders,673.568,2,252.588,Long Beach,New York,1347.14,High Value
+CA-2017-144491,Caroline Jumper,Furniture,Bookcases,1023.332,5,-30.098,Houston,Texas,5116.66,High Value
+CA-2017-144491,Caroline Jumper,Furniture,Chairs,600.558,3,-8.5794,Houston,Texas,1801.67,High Value
+CA-2015-162201,Andrew Gjertsen,Office Supplies,Storage,516.96,4,-6.462,Saint Petersburg,Florida,2067.84,High Value
+CA-2017-130302,Craig Yedwab,Technology,Accessories,895.944,7,190.3881,Springfield,Ohio,6271.61,High Value
+CA-2017-169327,Marc Harrigan,Furniture,Furnishings,511.5,5,132.99,Los Angeles,California,2557.5,High Value
+CA-2015-164301,Ellis Ballard,Furniture,Tables,3393.68,8,610.8624,Seattle,Washington,27149.44,High Value
+US-2015-116981,Suzanne McNair,Office Supplies,Storage,1085.42,7,282.2092,New York City,New York,7597.94,High Value
+US-2017-166324,Brad Eason,Office Supplies,Storage,848.544,4,-21.2136,Cleveland,Ohio,3394.18,High Value
+CA-2016-122581,Jay Kimmel,Furniture,Chairs,573.174,7,63.686,New York City,New York,4012.22,High Value
+US-2015-129007,Ken Dana,Furniture,Chairs,717.72,3,71.772,Anaheim,California,2153.16,High Value
+CA-2016-149272,Muhammed Yedwab,Furniture,Chairs,528.43,5,-143.431,Bryan,Texas,2642.15,High Value
+CA-2015-159534,Dave Hallsten,Office Supplies,Binders,1087.936,8,353.5792,New York City,New York,8703.49,High Value
+CA-2016-129630,Ionia McGrath,Technology,Copiers,2799.96,5,944.9865,San Francisco,California,13999.8,High Value
+CA-2015-104948,Keith Herrera,Furniture,Bookcases,683.332,4,-40.196,San Bernardino,California,2733.33,High Value
+CA-2014-143371,Maribeth Dona,Office Supplies,Storage,998.82,9,29.9646,Anaheim,California,8989.38,High Value
+CA-2017-121559,Helen Wasserman,Furniture,Chairs,1925.88,6,539.2464,Indianapolis,Indiana,11555.28,High Value
+CA-2017-121559,Helen Wasserman,Office Supplies,Appliances,2405.2,8,793.716,Indianapolis,Indiana,19241.6,High Value
+CA-2017-153871,Richard Bierner,Office Supplies,Binders,735.98,2,331.191,Plainfield,New Jersey,1471.96,High Value
